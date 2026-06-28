@@ -1,0 +1,44 @@
+_The following problem is from the [2024 AMC 10A #2](https://artofproblemsolving.com/wiki/index.php/2024\_AMC\_12A\_Problems/Problem\_2) and [2024 AMC 12A #2](https://artofproblemsolving.com/wiki/index.php?title=2024\_AMC\_12A\_Problems/Problem\_2 "2024 AMC 12A Problems/Problem 2"), so those problems redirect to this page._
+## Problem
+
+A model used to estimate the time it will take to hike to the top of the mountain on a trail is of the form $T=aL+bG,$ where $a$ and $b$ are constants, $T$ is the time in minutes, $L$ is the length of the trail in miles, and $G$ is the altitude gain in feet. The model estimates that it will take $69$ minutes to hike to the top if a trail is $1.5$ miles long and ascends $800$ feet, as well as if a trail is $1.2$ miles long and ascends $1100$ feet. How many minutes does the model estimates it will take to hike to the top if the trail is $4.2$ miles long and ascends $4000$ feet?
+
+$\textbf{(A) }240\qquad\textbf{(B) }246\qquad\textbf{(C) }252\qquad\textbf{(D) }258\qquad\textbf{(E) }264$
+
+## Solution 1
+
+Plug in the values into the equation to give you the following two equations: Solving for the values $a$ and $b$ gives you that $a=30$ and $b=\frac{3}{100}$. These values can be plugged back in showing that these values are correct. Now, using the given length of the trail, $4.2$, and the given vertical increase, $4000$ , we get a final answer of $\boxed{\textbf{(B) }246}.$
+
+Solution by [juwushu](https://artofproblemsolving.com/wiki/index.php?title=User:Juwushu "User:Juwushu").
+
+Minor edits by ParticlePhysics and TigerSenju
+
+## Solution 2
+
+Alternatively, observe that using $a=10x$ and $b=\frac{y}{100}$ makes the numbers much closer to each other in terms of magnitude.
+
+Plugging in the new variables:
+
+The solution becomes more obvious in this way, with $15+8=12+11=23$, and since $23\cdot 3=69$, we determine that $x=y=3$.
+
+The question asks us for $4.2a+4000b=42x+40y$. Since $x=y$, we have $(40+42)\cdot 3=\boxed{\textbf{(B) }246}$.
+
+~
+
+## See Also
+
+**[2024 AMC 10A](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A "2024 AMC 10A")** (**[Problems](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems "2024 AMC 10A Problems")** • **[Answer Key](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Answer_Key "2024 AMC 10A Answer Key")** • [Resources](https://artofproblemsolving.com/community/c13))
+Preceded by
+
+**[2023 AMC 10B Problems](https://artofproblemsolving.com/wiki/index.php?title=2023_AMC_10B_Problems "2023 AMC 10B Problems")**Followed by
+
+**[2024 AMC 10B Problems](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10B_Problems "2024 AMC 10B Problems")**
+[1](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_1 "2024 AMC 10A Problems/Problem 1")**•**[2](https://artofproblemsolving.com/wiki/index.php/2024_AMC_12A_Problems/Problem_2)**•**[3](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_3 "2024 AMC 10A Problems/Problem 3")**•**[4](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_4 "2024 AMC 10A Problems/Problem 4")**•**[5](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_5 "2024 AMC 10A Problems/Problem 5")**•**[6](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_6 "2024 AMC 10A Problems/Problem 6")**•**[7](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_7 "2024 AMC 10A Problems/Problem 7")**•**[8](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_8 "2024 AMC 10A Problems/Problem 8")**•**[9](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_9 "2024 AMC 10A Problems/Problem 9")**•**[10](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_10 "2024 AMC 10A Problems/Problem 10")**•**[11](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_11 "2024 AMC 10A Problems/Problem 11")**•**[12](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_12 "2024 AMC 10A Problems/Problem 12")**•**[13](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_13 "2024 AMC 10A Problems/Problem 13")**•**[14](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_14 "2024 AMC 10A Problems/Problem 14")**•**[15](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_15 "2024 AMC 10A Problems/Problem 15")**•**[16](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_16 "2024 AMC 10A Problems/Problem 16")**•**[17](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_17 "2024 AMC 10A Problems/Problem 17")**•**[18](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_18 "2024 AMC 10A Problems/Problem 18")**•**[19](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_19 "2024 AMC 10A Problems/Problem 19")**•**[20](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_20 "2024 AMC 10A Problems/Problem 20")**•**[21](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_21 "2024 AMC 10A Problems/Problem 21")**•**[22](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_22 "2024 AMC 10A Problems/Problem 22")**•**[23](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_23 "2024 AMC 10A Problems/Problem 23")**•**[24](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_24 "2024 AMC 10A Problems/Problem 24")**•**[25](https://artofproblemsolving.com/wiki/index.php?title=2024_AMC_10A_Problems/Problem_25 "2024 AMC 10A Problems/Problem 25")
+**[All AMC 10 Problems and Solutions](https://artofproblemsolving.com/wiki/index.php?title=AMC_10_Problems_and_Solutions "AMC 10 Problems and Solutions")**
+
+*   [AMC 10](https://artofproblemsolving.com/wiki/index.php?title=AMC_10 "AMC 10")
+*   [AMC 10 Problems and Solutions](https://artofproblemsolving.com/wiki/index.php?title=AMC_10_Problems_and_Solutions "AMC 10 Problems and Solutions")
+*   [Mathematics competitions](https://artofproblemsolving.com/wiki/index.php?title=Mathematics_competitions "Mathematics competitions")
+*   [Mathematics competition resources](https://artofproblemsolving.com/wiki/index.php?title=Mathematics_competition_resources "Mathematics competition resources")
+
+[](https://artofproblemsolving.com/wiki/index.php?title=File:AMC_Logo.png)

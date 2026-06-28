@@ -1,0 +1,95 @@
+## Problem
+
+Awnik repeatedly plays a game that has a probability of winning of $\frac{1}{3}$. The outcomes of the games are independent. What is the expected value of the number of games he will play until he has both won and lost at least once?
+
+$\textbf{(A) } \frac{5}{2} \qquad \textbf{(B) } 3 \qquad \textbf{(C) } \frac{16}{5} \qquad \textbf{(D) } \frac{7}{2} \qquad \textbf{(E) } \frac{15}{4}$
+
+## Solution 1
+
+Let the probability of a win be $p$ and the probability of a loss be $q$. If the first game is a win, then we must find the expected number of further games to get a loss, which will be $\frac{1}{q}$. In addition to the first game played, there will be $1+\frac{1}{q}$ games played. Therefore, the expected number of games needed to get a win on game $1$ and then a loss is $(p)\left(1+\frac{1}{q}\right).$
+
+Similarly, if the first game is a loss, we need to the find the expected number of further games to get a win, which will be $\frac{1}{p}$. There will be a total of $1+\frac{1}{p}$ games played. Therefore, the expected number of games needed to get a loss on game $1$ and then a win is $(q)\left(1+\frac{1}{p}\right).$
+
+The answer is \[(p)\left(1+\frac{1}{q}\right) + (q)\left(1+\frac{1}{p}\right)\]\[\left(\frac{1}{3}\right) \left(1+\frac{3}{2}\right) + \left(\frac{2}{3}\right)(1+3) = \frac{5}{6} + \frac{8}{3} = \boxed{\frac{7}{2}}.\]
+
+~lprado
+
+## Solution 2 (First-step analysis)
+
+Note that if we stop after getting at least one win and one loss, then the stopping condition is the first state change. If we start with a win, then we count the expected number of rounds until we lose and vice versa.
+
+We use first-step analysis: \[\mathbb{E}[T]=1+\sum_{s\in \Omega}\mathbb{P}(s)\mathbb{E}[T-1|s]\] Here, we have $\mathbb{P}(W)=\frac{1}{3}, \mathbb{P}(L)=\frac{2}{3}$.
+
+Using first-step analysis on each condition expectation, by the Markov property \[\mathbb{E}[T|W]=1+\mathbb{P}(W)\mathbb{E}[T|W]+\mathbb{P}(L)(0)=1+\mathbb{P}(W)\mathbb{E}[T|W]\] Solving, $\mathbb{E}[T|W]=\frac{1}{1-\mathbb{P}(W)}=\frac{1}{\mathbb{P}(L)}$. Similarly, $\mathbb{E}[T|L]=\frac{1}{\mathbb{P}(W)}$. Write $p=\mathbb{P}(W)$. $q=\mathbb{P}(L)=1-p$. \[\mathbb{E}[T]=1+\mathbb{P}(W)\mathbb{E}[T|W]+\mathbb{P}(L)\mathbb{E}[T|L]=1+p\left( \frac{1}{q} \right)+q\left( \frac{1}{p} \right)=1+\frac{p}{q}+\frac{q}{p}=1+\frac{p^2+q^2}{pq}\] We can simplify using $(p+q)^2=1=p^2+q^2+2pq$, giving $p^2+q^2=1-2pq$. Therefore, \[\mathbb{E}[T]=1+\frac{1-2pq}{pq}=1+\frac{1}{pq}-2=\frac{1}{pq}-1\] Substituting $p=\frac{1}{3}$, $q=\frac{2}{3}$ yields $3\cdot \frac{3}{2}-1=\boxed{\textbf{(D) } \frac{7}{2}}$.
+
+~imosilver
+
+## Solution 3 (Geometric Series and Engineer's Induction)
+
+We first conduct a little casework regarding the total number of games played.
+
+2 games played: 2 * (1/3 * 2/3 + 2/3 * 1/3) = 8/9
+
+3 games played: 3 * ((2/3)^2 * 1/3 + (1/3)^2 * 2/3) = 18/27
+
+4 games played: 4 * ((2/3)^3 * 1/3 + (1/3)^3 * 2/3) = 40/81
+
+5 games played: 5 * ((2/3)^4 * 1/3 + (1/3)^4 * 2/3) = 90/243
+
+etc...
+
+We observe that the pairs (8/9,40/81) and (18/27,90/243) all have a common ratio of 5/9. We speculate that the sum can be comprised of two infinite geometric series, all with a common ratio of 5/9, one with a first term of 8/9 and one with a first term of 18/27. Computing the sum of the two yields 2 and 3/2, respectively. Thus, the answer is 2 + 3/2 = 7/2.
+
+Note: I just realized that this method is flawed, the later cases don't match this geometric pattern, yet it still achieves the right answer
+
+## Solution 4 (Easiest with States)
+
+Let $E_0, E_{1W}, E_{1L}$ denote the expected number of remaining games needed from the states of no wins or losses, $\ge 1$ win + no losses, $\ge 1$ loss + no wins. Then we may write \[E_0 = 1 + \frac{1}{3} E_{1W} + \frac{2}{3} E_{1L}\]\[E_{1W} = 1 + \frac{2}{3} \cdot 0 + \frac{1}{3} E_{1W} \rightarrow E_{1W} = \frac{3}{2}\]\[E_{1L} = 1 + \frac{1}{3} \cdot 0 + \frac{2}{3} E_{1L} \rightarrow E_{1L} = 3\] Solving gives \[E_0 = 1 + \frac{1}{3} \cdot \frac{3}{2} + \frac{2}{3} \cdot 3 = \boxed{\frac{7}{2}}\]
+
+~Alex2
+
+## Solution 5
+
+If the game is played for $n$ turns, we can easily observe the following two cases.
+
+Either he wins the first $n - 1$ turns and loses on the $n$th turn Or he loses the first $n - 1$ turns and wins on the $n$th turn
+
+This is motivated from looking at smaller cases and noting that if the goal has to be achieved in exactly $n$ moves, he can't immediately start with winning the first turn and losing the second turn since that finishes the game in $2$ turns and not necessarily $n$ turns.
+
+The expected value is just the probability multiplied by $n$.
+
+So we have
+
+$n((\frac{1}{3})^{n - 1} \cdot \frac{2}{3} + (\frac{2}{3})^{n - 1} \cdot \frac{1}{3}) = \frac{n(2 + 2^{n - 1})}{3^n}$.
+
+This expression needs to be summed from $n = 2$ to infinity.
+
+We rewrite the expression as
+
+$2 \cdot n(\frac{1}{3})^n + \frac{1}{2} \cdot n(\frac{2}{3})^{n}$
+
+We claim that the standard arithmetico-geometric series $nx^n$ has a sum of $\frac{x}{(1 - x)^2}$ for $|x| < 1$.
+
+Proof: We start with $1 + x + x^2 + \cdots = \frac{1}{1 - x}$. Taking the derivative with respect to $x$ on both sides gives
+
+$1 + 2x + 3x^2 + \cdots$ which is just the sum of $nx^{n - 1}$ and this equals $\frac{1}{(1 - x)^2}$. To match $nx^n$ we multiply both sides by $x$ and get that the sum of $nx^n$ from $n = 1$ to infinity is $\frac{x}{(1 - x)^2}$. However, we're summing from $n = 2$ not $n = 1$ so we subtract $1 \cdot x^1 = x$ from both sides to get the desired sum of
+
+$\frac{x^2(2 - x)}{(1 - x)^2}$
+
+Now we plug in $x = \frac{1}{3}$ and $\frac{2}{3}$ to get
+
+$2 \cdot \frac{(\frac{1}{3})^2 \cdot (2 - \frac{1}{3})}{(\frac{2}{3})^2} = \frac{5}{6}$ for the first part of the sum.
+
+Now for the second part we have
+
+$\frac{1}{2} \cdot (\frac{\frac{2}{3}}{(1 - \frac{2}{3})^2} - \frac{2}{3}) = \frac{8}{3}$ for this second part.
+
+Finally we have
+
+$\frac{5}{6} + \frac{8}{3} = \boxed{\frac{7}{2}}$
+
+~ilikemath247365
+
+## See Also
+
+[](https://artofproblemsolving.com/wiki/index.php?title=File:AMC_Logo.png)
