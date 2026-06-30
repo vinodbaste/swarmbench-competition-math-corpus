@@ -1,0 +1,3 @@
+# 2018 AIME II Problem 3
+
+Find the sum of all positive integers $b < 1000$ such that the base- $b$ integer $36_{b}$ is a perfect square and the base- $b$ integer $27_{b}$ is a perfect cube.

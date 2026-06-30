@@ -1,0 +1,3 @@
+# 2018 AIME II Problem 5
+
+Suppose that $x$ , $y$ , and $z$ are complex numbers such that $xy = -80 - 320i$ , $yz = 60$ , and $zx = -96 + 24i$ , where $i$ $=$ $\sqrt{-1}$ . Then there are real numbers $a$ and $b$ such that $x + y + z = a + bi$ . Find $a^2 + b^2$ .
