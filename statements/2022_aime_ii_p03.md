@@ -1,0 +1,3 @@
+# 2022 AIME II Problem 3
+
+A right square pyramid with volume $54$ has a base with side length $6.$ The five vertices of the pyramid all lie on a sphere with radius $\frac mn$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .

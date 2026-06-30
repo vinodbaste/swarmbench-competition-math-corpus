@@ -1,0 +1,3 @@
+# 2021 AIME II Problem 3
+
+Find the number of permutations $x_1, x_2, x_3, x_4, x_5$ of numbers $1, 2, 3, 4, 5$ such that the sum of five products \[x_1x_2x_3 + x_2x_3x_4 + x_3x_4x_5 + x_4x_5x_1 + x_5x_1x_2\] is divisible by $3$ .
