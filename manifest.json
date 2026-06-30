@@ -1,367 +1,367 @@
 {
- "title": "U.S. AIME problems and posted community solutions (2024-2025) - frozen mirror",
- "description": "Each problem entry points at a Markdown file holding the contest problem statement followed by the posted community solutions.",
+ "title": "Recent AIME problem statements (2024-2025) - frozen mirror",
+ "description": "Each entry points at a Markdown file holding one AIME problem statement. Solutions are not included; work each problem yourself.",
  "source": "Art of Problem Solving wiki (problems (c) Mathematical Association of America)",
  "count": 60,
  "problems": [
   {
    "id": "2024_aime_i_p01",
    "title": "2024 AIME I Problem 1",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_I/problem_01.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_i_p01.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_I_Problems/Problem_1"
   },
   {
    "id": "2024_aime_i_p02",
    "title": "2024 AIME I Problem 2",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_I/problem_02.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_i_p02.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_I_Problems/Problem_2"
   },
   {
    "id": "2024_aime_i_p03",
    "title": "2024 AIME I Problem 3",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_I/problem_03.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_i_p03.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_I_Problems/Problem_3"
   },
   {
    "id": "2024_aime_i_p04",
    "title": "2024 AIME I Problem 4",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_I/problem_04.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_i_p04.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_I_Problems/Problem_4"
   },
   {
    "id": "2024_aime_i_p05",
    "title": "2024 AIME I Problem 5",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_I/problem_05.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_i_p05.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_I_Problems/Problem_5"
   },
   {
    "id": "2024_aime_i_p06",
    "title": "2024 AIME I Problem 6",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_I/problem_06.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_i_p06.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_I_Problems/Problem_6"
   },
   {
    "id": "2024_aime_i_p07",
    "title": "2024 AIME I Problem 7",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_I/problem_07.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_i_p07.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_I_Problems/Problem_7"
   },
   {
    "id": "2024_aime_i_p08",
    "title": "2024 AIME I Problem 8",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_I/problem_08.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_i_p08.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_I_Problems/Problem_8"
   },
   {
    "id": "2024_aime_i_p09",
    "title": "2024 AIME I Problem 9",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_I/problem_09.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_i_p09.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_I_Problems/Problem_9"
   },
   {
    "id": "2024_aime_i_p10",
    "title": "2024 AIME I Problem 10",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_I/problem_10.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_i_p10.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_I_Problems/Problem_10"
   },
   {
    "id": "2024_aime_i_p11",
    "title": "2024 AIME I Problem 11",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_I/problem_11.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_i_p11.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_I_Problems/Problem_11"
   },
   {
    "id": "2024_aime_i_p12",
    "title": "2024 AIME I Problem 12",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_I/problem_12.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_i_p12.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_I_Problems/Problem_12"
   },
   {
    "id": "2024_aime_i_p13",
    "title": "2024 AIME I Problem 13",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_I/problem_13.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_i_p13.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_I_Problems/Problem_13"
   },
   {
    "id": "2024_aime_i_p14",
    "title": "2024 AIME I Problem 14",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_I/problem_14.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_i_p14.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_I_Problems/Problem_14"
   },
   {
    "id": "2024_aime_i_p15",
    "title": "2024 AIME I Problem 15",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_I/problem_15.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_i_p15.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_I_Problems/Problem_15"
   },
   {
    "id": "2024_aime_ii_p01",
    "title": "2024 AIME II Problem 1",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_II/problem_01.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_ii_p01.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_II_Problems/Problem_1"
   },
   {
    "id": "2024_aime_ii_p02",
    "title": "2024 AIME II Problem 2",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_II/problem_02.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_ii_p02.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_II_Problems/Problem_2"
   },
   {
    "id": "2024_aime_ii_p03",
    "title": "2024 AIME II Problem 3",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_II/problem_03.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_ii_p03.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_II_Problems/Problem_3"
   },
   {
    "id": "2024_aime_ii_p04",
    "title": "2024 AIME II Problem 4",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_II/problem_04.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_ii_p04.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_II_Problems/Problem_4"
   },
   {
    "id": "2024_aime_ii_p05",
    "title": "2024 AIME II Problem 5",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_II/problem_05.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_ii_p05.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_II_Problems/Problem_5"
   },
   {
    "id": "2024_aime_ii_p06",
    "title": "2024 AIME II Problem 6",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_II/problem_06.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_ii_p06.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_II_Problems/Problem_6"
   },
   {
    "id": "2024_aime_ii_p07",
    "title": "2024 AIME II Problem 7",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_II/problem_07.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_ii_p07.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_II_Problems/Problem_7"
   },
   {
    "id": "2024_aime_ii_p08",
    "title": "2024 AIME II Problem 8",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_II/problem_08.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_ii_p08.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_II_Problems/Problem_8"
   },
   {
    "id": "2024_aime_ii_p09",
    "title": "2024 AIME II Problem 9",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_II/problem_09.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_ii_p09.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_II_Problems/Problem_9"
   },
   {
    "id": "2024_aime_ii_p10",
    "title": "2024 AIME II Problem 10",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_II/problem_10.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_ii_p10.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_II_Problems/Problem_10"
   },
   {
    "id": "2024_aime_ii_p11",
    "title": "2024 AIME II Problem 11",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_II/problem_11.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_ii_p11.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_II_Problems/Problem_11"
   },
   {
    "id": "2024_aime_ii_p12",
    "title": "2024 AIME II Problem 12",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_II/problem_12.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_ii_p12.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_II_Problems/Problem_12"
   },
   {
    "id": "2024_aime_ii_p13",
    "title": "2024 AIME II Problem 13",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_II/problem_13.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_ii_p13.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_II_Problems/Problem_13"
   },
   {
    "id": "2024_aime_ii_p14",
    "title": "2024 AIME II Problem 14",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_II/problem_14.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_ii_p14.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_II_Problems/Problem_14"
   },
   {
    "id": "2024_aime_ii_p15",
    "title": "2024 AIME II Problem 15",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2024_AIME_II/problem_15.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2024_aime_ii_p15.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_II_Problems/Problem_15"
   },
   {
    "id": "2025_aime_i_p01",
    "title": "2025 AIME I Problem 1",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_I/problem_01.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_i_p01.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_I_Problems/Problem_1"
   },
   {
    "id": "2025_aime_i_p02",
    "title": "2025 AIME I Problem 2",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_I/problem_02.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_i_p02.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_I_Problems/Problem_2"
   },
   {
    "id": "2025_aime_i_p03",
    "title": "2025 AIME I Problem 3",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_I/problem_03.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_i_p03.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_I_Problems/Problem_3"
   },
   {
    "id": "2025_aime_i_p04",
    "title": "2025 AIME I Problem 4",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_I/problem_04.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_i_p04.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_I_Problems/Problem_4"
   },
   {
    "id": "2025_aime_i_p05",
    "title": "2025 AIME I Problem 5",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_I/problem_05.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_i_p05.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_I_Problems/Problem_5"
   },
   {
    "id": "2025_aime_i_p06",
    "title": "2025 AIME I Problem 6",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_I/problem_06.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_i_p06.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_I_Problems/Problem_6"
   },
   {
    "id": "2025_aime_i_p07",
    "title": "2025 AIME I Problem 7",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_I/problem_07.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_i_p07.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_I_Problems/Problem_7"
   },
   {
    "id": "2025_aime_i_p08",
    "title": "2025 AIME I Problem 8",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_I/problem_08.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_i_p08.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_I_Problems/Problem_8"
   },
   {
    "id": "2025_aime_i_p09",
    "title": "2025 AIME I Problem 9",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_I/problem_09.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_i_p09.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_I_Problems/Problem_9"
   },
   {
    "id": "2025_aime_i_p10",
    "title": "2025 AIME I Problem 10",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_I/problem_10.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_i_p10.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_I_Problems/Problem_10"
   },
   {
    "id": "2025_aime_i_p11",
    "title": "2025 AIME I Problem 11",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_I/problem_11.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_i_p11.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_I_Problems/Problem_11"
   },
   {
    "id": "2025_aime_i_p12",
    "title": "2025 AIME I Problem 12",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_I/problem_12.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_i_p12.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_I_Problems/Problem_12"
   },
   {
    "id": "2025_aime_i_p13",
    "title": "2025 AIME I Problem 13",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_I/problem_13.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_i_p13.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_I_Problems/Problem_13"
   },
   {
    "id": "2025_aime_i_p14",
    "title": "2025 AIME I Problem 14",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_I/problem_14.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_i_p14.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_I_Problems/Problem_14"
   },
   {
    "id": "2025_aime_i_p15",
    "title": "2025 AIME I Problem 15",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_I/problem_15.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_i_p15.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_I_Problems/Problem_15"
   },
   {
    "id": "2025_aime_ii_p01",
    "title": "2025 AIME II Problem 1",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_II/problem_01.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p01.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_II_Problems/Problem_1"
   },
   {
    "id": "2025_aime_ii_p02",
    "title": "2025 AIME II Problem 2",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_II/problem_02.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p02.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_II_Problems/Problem_2"
   },
   {
    "id": "2025_aime_ii_p03",
    "title": "2025 AIME II Problem 3",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_II/problem_03.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p03.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_II_Problems/Problem_3"
   },
   {
    "id": "2025_aime_ii_p04",
    "title": "2025 AIME II Problem 4",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_II/problem_04.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p04.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_II_Problems/Problem_4"
   },
   {
    "id": "2025_aime_ii_p05",
    "title": "2025 AIME II Problem 5",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_II/problem_05.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p05.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_II_Problems/Problem_5"
   },
   {
    "id": "2025_aime_ii_p06",
    "title": "2025 AIME II Problem 6",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_II/problem_06.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p06.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_II_Problems/Problem_6"
   },
   {
    "id": "2025_aime_ii_p07",
    "title": "2025 AIME II Problem 7",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_II/problem_07.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p07.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_II_Problems/Problem_7"
   },
   {
    "id": "2025_aime_ii_p08",
    "title": "2025 AIME II Problem 8",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_II/problem_08.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p08.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_II_Problems/Problem_8"
   },
   {
    "id": "2025_aime_ii_p09",
    "title": "2025 AIME II Problem 9",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_II/problem_09.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p09.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_II_Problems/Problem_9"
   },
   {
    "id": "2025_aime_ii_p10",
    "title": "2025 AIME II Problem 10",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_II/problem_10.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p10.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_II_Problems/Problem_10"
   },
   {
    "id": "2025_aime_ii_p11",
    "title": "2025 AIME II Problem 11",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_II/problem_11.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p11.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_II_Problems/Problem_11"
   },
   {
    "id": "2025_aime_ii_p12",
    "title": "2025 AIME II Problem 12",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_II/problem_12.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p12.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_II_Problems/Problem_12"
   },
   {
    "id": "2025_aime_ii_p13",
    "title": "2025 AIME II Problem 13",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_II/problem_13.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p13.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_II_Problems/Problem_13"
   },
   {
    "id": "2025_aime_ii_p14",
    "title": "2025 AIME II Problem 14",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_II/problem_14.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p14.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_II_Problems/Problem_14"
   },
   {
    "id": "2025_aime_ii_p15",
    "title": "2025 AIME II Problem 15",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/2025_AIME_II/problem_15.md",
+   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p15.md",
    "source_url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_II_Problems/Problem_15"
   }
  ]
