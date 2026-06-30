@@ -2,7 +2,7 @@
  "title": "Recent AIME problem statements (2024-2025) - frozen mirror",
  "description": "Each entry points at a Markdown file holding one AIME problem statement (no solutions, no answer key). Solve each problem yourself.",
  "source": "Art of Problem Solving wiki (problems (c) Mathematical Association of America)",
- "count": 60,
+ "count": 40,
  "problems": [
   {
    "id": "2024_aime_i_p01",
@@ -203,106 +203,6 @@
    "id": "2025_aime_i_p10",
    "title": "2025 AIME I Problem 10",
    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_i_p10.md"
-  },
-  {
-   "id": "2025_aime_i_p11",
-   "title": "2025 AIME I Problem 11",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_i_p11.md"
-  },
-  {
-   "id": "2025_aime_i_p12",
-   "title": "2025 AIME I Problem 12",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_i_p12.md"
-  },
-  {
-   "id": "2025_aime_i_p13",
-   "title": "2025 AIME I Problem 13",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_i_p13.md"
-  },
-  {
-   "id": "2025_aime_i_p14",
-   "title": "2025 AIME I Problem 14",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_i_p14.md"
-  },
-  {
-   "id": "2025_aime_i_p15",
-   "title": "2025 AIME I Problem 15",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_i_p15.md"
-  },
-  {
-   "id": "2025_aime_ii_p01",
-   "title": "2025 AIME II Problem 1",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p01.md"
-  },
-  {
-   "id": "2025_aime_ii_p02",
-   "title": "2025 AIME II Problem 2",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p02.md"
-  },
-  {
-   "id": "2025_aime_ii_p03",
-   "title": "2025 AIME II Problem 3",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p03.md"
-  },
-  {
-   "id": "2025_aime_ii_p04",
-   "title": "2025 AIME II Problem 4",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p04.md"
-  },
-  {
-   "id": "2025_aime_ii_p05",
-   "title": "2025 AIME II Problem 5",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p05.md"
-  },
-  {
-   "id": "2025_aime_ii_p06",
-   "title": "2025 AIME II Problem 6",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p06.md"
-  },
-  {
-   "id": "2025_aime_ii_p07",
-   "title": "2025 AIME II Problem 7",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p07.md"
-  },
-  {
-   "id": "2025_aime_ii_p08",
-   "title": "2025 AIME II Problem 8",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p08.md"
-  },
-  {
-   "id": "2025_aime_ii_p09",
-   "title": "2025 AIME II Problem 9",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p09.md"
-  },
-  {
-   "id": "2025_aime_ii_p10",
-   "title": "2025 AIME II Problem 10",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p10.md"
-  },
-  {
-   "id": "2025_aime_ii_p11",
-   "title": "2025 AIME II Problem 11",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p11.md"
-  },
-  {
-   "id": "2025_aime_ii_p12",
-   "title": "2025 AIME II Problem 12",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p12.md"
-  },
-  {
-   "id": "2025_aime_ii_p13",
-   "title": "2025 AIME II Problem 13",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p13.md"
-  },
-  {
-   "id": "2025_aime_ii_p14",
-   "title": "2025 AIME II Problem 14",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p14.md"
-  },
-  {
-   "id": "2025_aime_ii_p15",
-   "title": "2025 AIME II Problem 15",
-   "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/statements/2025_aime_ii_p15.md"
   }
  ]
 }
