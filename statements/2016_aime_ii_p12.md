@@ -1,0 +1,3 @@
+# 2016 AIME II Problem 12
+
+The figure below shows a ring made of six small sections which you are to paint on a wall. You have four paint colors available and you will paint each of the six sections a solid color. Find the number of ways you can choose to paint the sections if no two adjacent sections can be painted with the same color. [asy] draw(Circle((0,0), 4)); draw(Circle((0,0), 3)); draw((0,4)--(0,3)); draw((0,-4)--(0,-3)); draw((-2.598, 1.5)--(-3.4641, 2)); draw((-2.598, -1.5)--(-3.4641, -2)); draw((2.598, -1.5)--(3.4641, -2)); draw((2.598, 1.5)--(3.4641, 2)); [/asy]

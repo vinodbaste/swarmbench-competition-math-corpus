@@ -1,0 +1,3 @@
+# 2008 AIME II Problem 11
+
+In triangle $ABC$ , $AB = AC = 100$ , and $BC = 56$ . Circle $P$ has radius $16$ and is tangent to $\overline{AC}$ and $\overline{BC}$ . Circle $Q$ is externally tangent to circle $P$ and is tangent to $\overline{AB}$ and $\overline{BC}$ . No point of circle $Q$ lies outside of $\bigtriangleup\overline{ABC}$ . The radius of circle $Q$ can be expressed in the form $m - n\sqrt{k}$ ,where $m$ , $n$ , and $k$ are positive integers and $k$ is the product of distinct primes. Find $m +nk$ .

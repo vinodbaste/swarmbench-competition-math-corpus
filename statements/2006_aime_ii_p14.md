@@ -1,0 +1,3 @@
+# 2006 AIME II Problem 14
+
+Let $S_n$ be the sum of the reciprocals of the non-zero digits of the integers from $1$ to $10^n$ inclusive. Find the smallest positive integer $n$ for which $S_n$ is an integer.

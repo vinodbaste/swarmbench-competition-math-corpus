@@ -1,0 +1,3 @@
+# 2011 AIME II Problem 4
+
+In triangle $ABC$ , $AB=20$ and $AC=11$ . The angle bisector of angle $A$ intersects $BC$ at point $D$ , and point $M$ is the midpoint of $AD$ . Let $P$ be the point of intersection of $AC$ and the line $BM$ . The ratio of $CP$ to $PA$ can be expressed in the form $\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .

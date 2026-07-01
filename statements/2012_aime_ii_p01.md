@@ -1,0 +1,3 @@
+# 2012 AIME II Problem 1
+
+Find the number of ordered pairs of positive integer solutions $(m, n)$ to the equation $20m + 12n = 2012$ .

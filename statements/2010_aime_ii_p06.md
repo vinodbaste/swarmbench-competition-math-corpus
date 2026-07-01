@@ -1,0 +1,3 @@
+# 2010 AIME II Problem 6
+
+Find the smallest positive integer $n$ with the property that the polynomial $x^4 - nx + 63$ can be written as a product of two nonconstant polynomials with integer coefficients.

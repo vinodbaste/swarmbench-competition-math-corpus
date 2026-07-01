@@ -1,0 +1,3 @@
+# 2006 AIME II Problem 3
+
+Let $P$ be the product of the first 100 positive odd integers. Find the largest integer $k$ such that $P$ is divisible by $3^k$ .

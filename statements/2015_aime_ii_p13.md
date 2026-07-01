@@ -1,0 +1,3 @@
+# 2015 AIME II Problem 13
+
+Define the sequence $a_1, a_2, a_3, \ldots$ by $a_n = \sum\limits_{k=1}^n \sin{k}$ , where $k$ represents radian measure. Find the index of the 100th term for which $a_n < 0$ .
