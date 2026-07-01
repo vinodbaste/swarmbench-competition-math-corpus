@@ -1,0 +1,483 @@
+[
+  {
+    "id": "toothgrowth_supp",
+    "title": "Tooth growth by supplement type",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/toothgrowth_supp.csv",
+    "claim": "Group 'OJ' has a significantly higher mean than group 'VC'.",
+    "columns_hint": [
+      "supp",
+      "len"
+    ]
+  },
+  {
+    "id": "mtcars_mpg_am",
+    "title": "Fuel economy by transmission",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/mtcars_mpg_am.csv",
+    "claim": "There is no significant difference in means between the two groups.",
+    "columns_hint": [
+      "am",
+      "mpg"
+    ]
+  },
+  {
+    "id": "cats_hwt_sex",
+    "title": "Cat heart weight by sex",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/cats_hwt_sex.csv",
+    "claim": "Group 'M' has a strong, significantly higher mean than group 'F'.",
+    "columns_hint": [
+      "Sex",
+      "Hwt"
+    ]
+  },
+  {
+    "id": "birthwt_bwt_smoke",
+    "title": "Birth weight by maternal smoking",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/birthwt_bwt_smoke.csv",
+    "claim": "Group '1' has a significantly higher mean than group '0'.",
+    "columns_hint": [
+      "smoke",
+      "bwt"
+    ]
+  },
+  {
+    "id": "salaries_sex",
+    "title": "Faculty salary by sex",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/salaries_sex.csv",
+    "claim": "Group 'Female' has a significantly higher mean than group 'Male'.",
+    "columns_hint": [
+      "sex",
+      "salary"
+    ]
+  },
+  {
+    "id": "crabs_fl_sex",
+    "title": "Crab frontal lobe by sex",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/crabs_fl_sex.csv",
+    "claim": "A chi-square test of independence shows the outcome differs significantly between the two groups.",
+    "columns_hint": [
+      "sex",
+      "FL"
+    ]
+  },
+  {
+    "id": "whiteside_gas_insul",
+    "title": "Gas use before/after insulation",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/whiteside_gas_insul.csv",
+    "claim": "There is no significant difference in means between the two groups.",
+    "columns_hint": [
+      "Insul",
+      "Gas"
+    ]
+  },
+  {
+    "id": "warpbreaks_wool",
+    "title": "Loom breaks by wool type",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/warpbreaks_wool.csv",
+    "claim": "Group 'A' has a significantly higher mean than group 'B'.",
+    "columns_hint": [
+      "wool",
+      "breaks"
+    ]
+  },
+  {
+    "id": "cars93_price_origin",
+    "title": "Car price by origin",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/cars93_price_origin.csv",
+    "claim": "Group 'USA' has a significantly higher mean than group 'non-USA'.",
+    "columns_hint": [
+      "Origin",
+      "Price"
+    ]
+  },
+  {
+    "id": "genotype_wt",
+    "title": "Litter weight by mother genotype (A vs B)",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/genotype_wt.csv",
+    "claim": "There is no significant difference in means between groups 'A' and 'B'.",
+    "columns_hint": [
+      "Mother",
+      "Wt"
+    ]
+  },
+  {
+    "id": "mpg_hwy_year",
+    "title": "Highway mpg by model year",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/mpg_hwy_year.csv",
+    "claim": "Group '1999' has a significantly higher mean than group '2008'.",
+    "columns_hint": [
+      "year",
+      "hwy"
+    ]
+  },
+  {
+    "id": "sleep_paired",
+    "title": "Extra sleep from two drugs (paired)",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/sleep_paired.csv",
+    "claim": "Group '2' has a strong, significantly higher mean than group '1'.",
+    "columns_hint": [
+      "group",
+      "extra",
+      "ID"
+    ]
+  },
+  {
+    "id": "anorexia_pre_post",
+    "title": "Weight before vs after therapy",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/anorexia_pre_post.csv",
+    "claim": "There is no significant difference between the two measurements.",
+    "columns_hint": [
+      "Prewt",
+      "Postwt"
+    ]
+  },
+  {
+    "id": "immer_barley",
+    "title": "Barley yield 1931 vs 1932 (paired)",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/immer_barley.csv",
+    "claim": "Group 'Y1' has a strong, significantly higher mean than group 'Y2'.",
+    "columns_hint": [
+      "Y1",
+      "Y2"
+    ]
+  },
+  {
+    "id": "plantgrowth",
+    "title": "Plant weight across treatments",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/plantgrowth.csv",
+    "claim": "Group means differ significantly across the 3 groups, with a large effect.",
+    "columns_hint": [
+      "group",
+      "weight"
+    ]
+  },
+  {
+    "id": "chickwts_feed",
+    "title": "Chick weight across feeds",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/chickwts_feed.csv",
+    "claim": "There is no significant difference in means across the groups.",
+    "columns_hint": [
+      "feed",
+      "weight"
+    ]
+  },
+  {
+    "id": "insectsprays",
+    "title": "Insect counts across sprays",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/insectsprays.csv",
+    "claim": "A single two-sample t-test shows the group means differ significantly.",
+    "columns_hint": [
+      "spray",
+      "count"
+    ]
+  },
+  {
+    "id": "iris_sepal",
+    "title": "Sepal length across iris species",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/iris_sepal.csv",
+    "claim": "Group means differ significantly across the 3 groups, with a large effect.",
+    "columns_hint": [
+      "Species",
+      "Sepal.Length"
+    ]
+  },
+  {
+    "id": "salaries_rank",
+    "title": "Salary across academic ranks",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/salaries_rank.csv",
+    "claim": "Group means differ significantly across the 3 groups, with a large effect.",
+    "columns_hint": [
+      "rank",
+      "salary"
+    ]
+  },
+  {
+    "id": "mpg_hwy_drv",
+    "title": "Highway mpg across drive types",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/mpg_hwy_drv.csv",
+    "claim": "Group means differ significantly across the 3 groups, with a large effect.",
+    "columns_hint": [
+      "drv",
+      "hwy"
+    ]
+  },
+  {
+    "id": "diamonds_price_cut",
+    "title": "Diamond price across cut grades",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/diamonds_price_cut.csv",
+    "claim": "Group means differ significantly with a large effect size across the groups.",
+    "columns_hint": [
+      "cut",
+      "price"
+    ]
+  },
+  {
+    "id": "toothgrowth_dose",
+    "title": "Tooth growth across doses",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/toothgrowth_dose.csv",
+    "claim": "Group means differ significantly across the 3 groups, with a large effect.",
+    "columns_hint": [
+      "dose",
+      "len"
+    ]
+  },
+  {
+    "id": "airquality_ozone_month",
+    "title": "Ozone across months",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/airquality_ozone_month.csv",
+    "claim": "Group means differ significantly across the 5 groups, with a large effect.",
+    "columns_hint": [
+      "Month",
+      "Ozone"
+    ]
+  },
+  {
+    "id": "prestige_type_income",
+    "title": "Income across occupation types",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/prestige_type_income.csv",
+    "claim": "There is no significant difference in means across the groups.",
+    "columns_hint": [
+      "type",
+      "income"
+    ]
+  },
+  {
+    "id": "chickweight_diet",
+    "title": "Chick weight across diets",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/chickweight_diet.csv",
+    "claim": "Group means differ significantly across the 4 groups, with a small effect.",
+    "columns_hint": [
+      "Diet",
+      "weight"
+    ]
+  },
+  {
+    "id": "faithful_corr",
+    "title": "Eruption duration vs waiting time",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/faithful_corr.csv",
+    "claim": "The two variables are strongly, significantly positively correlated.",
+    "columns_hint": [
+      "eruptions",
+      "waiting"
+    ]
+  },
+  {
+    "id": "trees_corr",
+    "title": "Tree girth vs volume",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/trees_corr.csv",
+    "claim": "The two variables are strongly, significantly positively correlated.",
+    "columns_hint": [
+      "Girth",
+      "Volume"
+    ]
+  },
+  {
+    "id": "cars_speed_dist",
+    "title": "Car speed vs stopping distance",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/cars_speed_dist.csv",
+    "claim": "The two variables are strongly, significantly positively correlated.",
+    "columns_hint": [
+      "speed",
+      "dist"
+    ]
+  },
+  {
+    "id": "mtcars_wt_mpg",
+    "title": "Car weight vs fuel economy",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/mtcars_wt_mpg.csv",
+    "claim": "The two variables are significantly positively correlated.",
+    "columns_hint": [
+      "wt",
+      "mpg"
+    ]
+  },
+  {
+    "id": "women_height_weight",
+    "title": "Height vs weight in women",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/women_height_weight.csv",
+    "claim": "The two variables are strongly, significantly positively correlated.",
+    "columns_hint": [
+      "height",
+      "weight"
+    ]
+  },
+  {
+    "id": "usarrests_murder_assault",
+    "title": "Murder vs assault rates",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/usarrests_murder_assault.csv",
+    "claim": "The two variables are strongly, significantly positively correlated.",
+    "columns_hint": [
+      "Murder",
+      "Assault"
+    ]
+  },
+  {
+    "id": "swiss_fert_educ",
+    "title": "Fertility vs education",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/swiss_fert_educ.csv",
+    "claim": "The two variables show a strong, significant negative correlation.",
+    "columns_hint": [
+      "Fertility",
+      "Education"
+    ]
+  },
+  {
+    "id": "attitude_rating_compl",
+    "title": "Rating vs complaints handling",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/attitude_rating_compl.csv",
+    "claim": "The two variables are strongly, significantly positively correlated.",
+    "columns_hint": [
+      "rating",
+      "complaints"
+    ]
+  },
+  {
+    "id": "airquality_ozone_temp",
+    "title": "Ozone vs temperature",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/airquality_ozone_temp.csv",
+    "claim": "The two variables are strongly, significantly positively correlated.",
+    "columns_hint": [
+      "Ozone",
+      "Temp"
+    ]
+  },
+  {
+    "id": "mpg_displ_hwy",
+    "title": "Engine size vs highway mpg",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/mpg_displ_hwy.csv",
+    "claim": "The two variables are not significantly correlated.",
+    "columns_hint": [
+      "displ",
+      "hwy"
+    ]
+  },
+  {
+    "id": "diamonds_carat_price",
+    "title": "Carat vs price",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/diamonds_carat_price.csv",
+    "claim": "The two variables are strongly, significantly positively correlated.",
+    "columns_hint": [
+      "carat",
+      "price"
+    ]
+  },
+  {
+    "id": "duncan_income_prestige",
+    "title": "Occupational income vs prestige",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/duncan_income_prestige.csv",
+    "claim": "The two variables are not significantly correlated.",
+    "columns_hint": [
+      "income",
+      "prestige"
+    ]
+  },
+  {
+    "id": "prestige_educ_prestige",
+    "title": "Education vs occupational prestige",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/prestige_educ_prestige.csv",
+    "claim": "The two variables are strongly, significantly positively correlated.",
+    "columns_hint": [
+      "education",
+      "prestige"
+    ]
+  },
+  {
+    "id": "quakes_mag_stations",
+    "title": "Earthquake magnitude vs stations",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/quakes_mag_stations.csv",
+    "claim": "The two variables are significantly negatively correlated.",
+    "columns_hint": [
+      "mag",
+      "stations"
+    ]
+  },
+  {
+    "id": "pressure_temp",
+    "title": "Temperature vs vapor pressure",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/pressure_temp.csv",
+    "claim": "The two variables are strongly, significantly positively correlated.",
+    "columns_hint": [
+      "temperature",
+      "pressure"
+    ]
+  },
+  {
+    "id": "birthwt_low_smoke",
+    "title": "Low birth weight vs smoking",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/birthwt_low_smoke.csv",
+    "claim": "The two categorical variables are significantly associated, with a weak association.",
+    "columns_hint": [
+      "smoke",
+      "low"
+    ]
+  },
+  {
+    "id": "mtcars_am_vs",
+    "title": "Transmission vs engine shape",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/mtcars_am_vs.csv",
+    "claim": "The two categorical variables are significantly associated.",
+    "columns_hint": [
+      "am",
+      "vs"
+    ]
+  },
+  {
+    "id": "titanic_survived_sex",
+    "title": "Survival vs sex on the Titanic",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/titanic_survived_sex.csv",
+    "claim": "The two categorical variables are significantly associated, with a strong association.",
+    "columns_hint": [
+      "survived",
+      "sex"
+    ]
+  },
+  {
+    "id": "titanic_survived_class",
+    "title": "Survival vs passenger class",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/titanic_survived_class.csv",
+    "claim": "A two-sample t-test shows the two variables differ significantly.",
+    "columns_hint": [
+      "survived",
+      "passengerClass"
+    ]
+  },
+  {
+    "id": "salaries_rank_disc",
+    "title": "Academic rank vs discipline",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/salaries_rank_disc.csv",
+    "claim": "The two categorical variables are not significantly associated.",
+    "columns_hint": [
+      "rank",
+      "discipline"
+    ]
+  },
+  {
+    "id": "survey_sex_smoke",
+    "title": "Sex vs smoking status (student survey)",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/survey_sex_smoke.csv",
+    "claim": "The two categorical variables are significantly associated.",
+    "columns_hint": [
+      "Sex",
+      "Smoke"
+    ]
+  },
+  {
+    "id": "mpg_drv_year",
+    "title": "Drive type vs model year",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/mpg_drv_year.csv",
+    "claim": "The two categorical variables are not significantly associated.",
+    "columns_hint": [
+      "drv",
+      "year"
+    ]
+  },
+  {
+    "id": "esoph_agegp_alc",
+    "title": "Age group vs alcohol group (esophageal study)",
+    "dataset_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/stats-audit/data/esoph_agegp_alc.csv",
+    "claim": "A two-sample t-test shows the two variables differ significantly.",
+    "columns_hint": [
+      "agegp",
+      "alcgp"
+    ]
+  }
+]

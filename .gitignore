@@ -1,3 +1,5 @@
 .DS_Store
 __pycache__/
 *.pyc
+stats-audit/_build/
+stats-audit/ground_truth_v1.json
