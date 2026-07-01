@@ -1,0 +1,8 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S03-2025-05-01,LOT-1178,DC-101,13.0,2025-05-04,2025-05-06,2025-05-10,2025-05-14,Released,Nonconformance closed after rework of 39 units; effectiveness check scheduled next cycle.
+NCR-S03-2025-05-02,LOT-1036,DC-311,12.68,2025-05-09,2025-05-12,2025-05-14,2025-05-19,Released,Material lot quarantined pending CoA review; disposition set to use-as-is after engineering waiver.
+NCR-S03-2025-05-03,LOT-1142,DC-118,12.09,2025-05-09,2025-05-10,2025-05-14,2025-05-18,Quarantine,Investigation found an out-of-spec torque setting; work instruction WI-983 updated accordingly.
+NCR-S03-2025-05-04,LOT-M006,DC-204,13.56,2025-05-05,2025-05-08,2025-05-09,2025-05-14,Closed,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.
+NCR-S03-2025-05-05,LOT-1105,DC-512,15.78,2025-05-06,2025-05-07,2025-05-12,2025-05-16,Hold,Sampling error under AQL plan corrected; inspector re-qualified on the revised sampling table.
+NCR-S03-2025-05-06,LOT-1217,DC-204,12.09,2025-05-17,2025-05-19,2025-05-22,2025-05-27,Quarantine,Nonconformance closed after rework of 6 units; effectiveness check scheduled next cycle.
+NCR-S03-2025-05-07,LOT-1044,DC-204,12.82,2025-05-11,2025-05-12,2025-05-16,2025-05-19,Released,Root cause traced to a mislabeled fixture on line 6; operator retrained and check sheet revised.

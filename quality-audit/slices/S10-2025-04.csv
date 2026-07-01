@@ -1,0 +1,8 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S10-2025-04-01,LOT-1124,DC-101,1.49,2025-04-23,2025-04-21,2025-04-18,2025-04-27,Quarantine,Containment isolated 3 affected units; supplier notified and incoming inspection tightened.
+NCR-S10-2025-04-02,LOT-1114,DC-118,2.29,2025-04-17,2025-04-20,2025-04-23,2025-04-27,Closed,Containment isolated 3 affected units; supplier notified and incoming inspection tightened.
+NCR-S10-2025-04-03,LOT-1077,DC-101,2.84,2025-04-12,2025-04-13,2025-04-18,2025-04-21,Quarantine,Root cause traced to a mislabeled fixture on line 4; operator retrained and check sheet revised.
+NCR-S10-2025-04-04,LOT-1018,DC-405,2.61,2025-04-02,2025-04-05,2025-04-06,2025-04-11,Closed,Material lot quarantined pending CoA review; disposition set to use-as-is after engineering waiver.
+NCR-S10-2025-04-05,LOT-1122,DC-512,2.28,2025-04-05,2025-04-08,2025-04-10,2025-04-13,Hold,Process deviation from a missed cleaning step; 5S audit added to the shift changeover checklist.
+NCR-S10-2025-04-06,LOT-1039,DC-204,3.43,2025-04-07,2025-04-09,2025-04-13,2025-04-17,Rework,Containment isolated 10 affected units; supplier notified and incoming inspection tightened.
+NCR-S10-2025-04-07,LOT-1016,DC-204,2.07,2025-04-16,2025-04-18,2025-04-20,2025-04-24,Quarantine,Vendor CAPA referenced; corrective action verified on subsequent lots with no recurrence noted.

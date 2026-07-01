@@ -1,0 +1,9 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S11-2025-03-01,LOT-1128,DC-512,2.81,2025-03-12,2025-03-13,2025-03-16,2025-03-21,Closed,Deviation attributed to calibration drift on gauge 67; recalibrated and verified against standard.
+NCR-S11-2025-03-02,LOT-1081,DC-118,3.89,2025-03-04,2025-03-07,2025-03-09,2025-03-12,Closed,Deviation attributed to calibration drift on gauge 74; recalibrated and verified against standard.
+NCR-S11-2025-03-03,LOT-1197,DC-118,2.79,2025-03-11,2025-03-14,2025-03-17,2025-03-21,Quarantine,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.
+NCR-S11-2025-03-04,LOT-1115,DC-230,3.24,2025-03-06,2025-03-07,2025-03-13,2025-03-15,Quarantine,Nonconformance closed after rework of 6 units; effectiveness check scheduled next cycle.
+NCR-S11-2025-03-05,LOT-M006,DC-512,2.96,2025-03-02,2025-03-03,2025-03-06,2025-03-10,Quarantine,Containment isolated 26 affected units; supplier notified and incoming inspection tightened.
+NCR-S11-2025-03-06,LOT-1097,DC-512,2.51,2025-03-06,2025-03-09,2025-03-10,2025-03-14,Hold,Nonconformance closed after rework of 21 units; effectiveness check scheduled next cycle.
+NCR-S11-2025-03-07,LOT-1041,DC-405,3.36,2025-03-01,2025-03-04,2025-03-06,2025-03-11,Hold,Material lot quarantined pending CoA review; disposition set to use-as-is after engineering waiver.
+NCR-S11-2025-03-08,LOT-1021,DC-118,2.77,2025-03-13,2025-03-16,2025-03-20,2025-03-22,Closed,Investigation found an out-of-spec torque setting; work instruction WI-296 updated accordingly.

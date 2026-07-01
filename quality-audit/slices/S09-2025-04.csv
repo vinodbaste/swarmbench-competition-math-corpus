@@ -1,0 +1,7 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S09-2025-04-01,LOT-1174,DC-405,4.96,2025-04-11,2025-04-12,2025-04-17,2025-04-20,Released,Deviation attributed to calibration drift on gauge 97; recalibrated and verified against standard.
+NCR-S09-2025-04-02,LOT-1004,DC-311,4.58,2025-04-14,2025-04-16,2025-04-20,2025-04-22,Closed,Investigation found an out-of-spec torque setting; work instruction WI-591 updated accordingly.
+NCR-S09-2025-04-03,LOT-1118,DC-405,3.49,2025-04-17,2025-04-18,2025-04-23,2025-04-26,Closed,Containment isolated 32 affected units; supplier notified and incoming inspection tightened.
+NCR-S09-2025-04-04,LOT-1168,DC-405,3.47,2025-04-04,2025-04-07,2025-04-11,2025-04-13,Released,Sampling error under AQL plan corrected; inspector re-qualified on the revised sampling table.
+NCR-S09-2025-04-05,LOT-1197,DC-405,4.78,2025-04-10,2025-04-12,2025-04-16,2025-04-20,Quarantine,Material lot quarantined pending CoA review; disposition set to use-as-is after engineering waiver.
+NCR-S09-2025-04-06,LOT-1187,DC-230,3.74,2025-04-03,2025-04-06,2025-04-07,2025-04-12,Quarantine,Process deviation from a missed cleaning step; 5S audit added to the shift changeover checklist.

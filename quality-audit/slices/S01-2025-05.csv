@@ -1,0 +1,7 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S01-2025-05-01,LOT-1148,DC-230,2.24,2025-05-15,2025-05-18,2025-05-19,2025-05-24,Released,Process deviation from a missed cleaning step; 5S audit added to the shift changeover checklist.
+NCR-S01-2025-05-02,LOT-1150,DC-512,2.33,2025-05-08,2025-05-10,2025-05-12,2025-05-16,Rework,Sampling error under AQL plan corrected; inspector re-qualified on the revised sampling table.
+NCR-S01-2025-05-03,LOT-1099,DC-101,2.26,2025-05-06,2025-05-07,2025-05-10,2025-05-14,Rework,Material lot quarantined pending CoA review; disposition set to use-as-is after engineering waiver.
+NCR-S01-2025-05-04,LOT-1118,DC-118,2.9,2025-05-13,2025-05-14,2025-05-17,2025-05-22,Rework,Material lot quarantined pending CoA review; disposition set to use-as-is after engineering waiver.
+NCR-S01-2025-05-05,LOT-1209,DC-101,3.29,2025-05-13,2025-05-14,2025-05-17,2025-05-21,Quarantine,Sampling error under AQL plan corrected; inspector re-qualified on the revised sampling table.
+NCR-S01-2025-05-06,LOT-1034,DC-101,2.73,2025-05-18,2025-05-19,2025-05-23,2025-05-26,Released,Process deviation from a missed cleaning step; 5S audit added to the shift changeover checklist.

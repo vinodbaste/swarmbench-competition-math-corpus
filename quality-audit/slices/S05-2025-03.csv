@@ -1,0 +1,7 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S05-2025-03-01,LOT-1208,DC-405,1.92,2025-03-10,2025-03-11,2025-03-17,2025-03-18,Quarantine,Process deviation from a missed cleaning step; 5S audit added to the shift changeover checklist.
+NCR-S05-2025-03-02,LOT-1002,DC-230,2.61,2025-03-05,2025-03-08,2025-03-12,2025-03-13,Released,Investigation found an out-of-spec torque setting; work instruction WI-755 updated accordingly.
+NCR-S05-2025-03-03,LOT-1151,DC-204,2.51,2025-03-14,2025-03-15,2025-03-20,2025-03-22,Closed,Root cause traced to a mislabeled fixture on line 5; operator retrained and check sheet revised.
+NCR-S05-2025-03-04,LOT-1096,DC-311,2.63,2025-03-14,2025-03-17,2025-03-20,2025-03-23,Hold,Investigation closed same day as opened with identical wording to two other unrelated lots.
+NCR-S05-2025-03-05,LOT-1084,DC-204,2.29,2025-03-07,2025-03-10,2025-03-14,2025-03-15,Quarantine,Deviation attributed to calibration drift on gauge 90; recalibrated and verified against standard.
+NCR-S05-2025-03-06,LOT-M001,DC-204,3.21,2025-03-10,2025-03-11,2025-03-14,2025-03-19,Closed,Vendor CAPA referenced; corrective action verified on subsequent lots with no recurrence noted.

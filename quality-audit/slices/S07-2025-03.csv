@@ -1,0 +1,8 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S07-2025-03-01,LOT-1037,DC-118,2.46,2025-03-02,2025-03-03,2025-03-09,2025-03-11,Quarantine,Containment isolated 28 affected units; supplier notified and incoming inspection tightened.
+NCR-S07-2025-03-02,LOT-1182,DC-101,3.4,2025-03-14,2025-03-17,2025-03-21,2025-03-23,Hold,Process deviation from a missed cleaning step; 5S audit added to the shift changeover checklist.
+NCR-S07-2025-03-03,LOT-1216,DC-204,3.12,2025-03-16,2025-03-14,2025-03-11,2025-03-21,Released,Process deviation from a missed cleaning step; 5S audit added to the shift changeover checklist.
+NCR-S07-2025-03-04,LOT-1169,DC-512,2.9,2025-03-09,2025-03-10,2025-03-15,2025-03-19,Quarantine,Root cause traced to a mislabeled fixture on line 3; operator retrained and check sheet revised.
+NCR-S07-2025-03-05,LOT-1109,DC-204,3.45,2025-03-17,2025-03-19,2025-03-22,2025-03-26,Hold,Sampling error under AQL plan corrected; inspector re-qualified on the revised sampling table.
+NCR-S07-2025-03-06,LOT-1119,DC-101,2.65,2025-03-17,2025-03-18,2025-03-21,2025-03-27,Closed,Root cause traced to a mislabeled fixture on line 2; operator retrained and check sheet revised.
+NCR-S07-2025-03-07,LOT-1170,DC-405,3.39,2025-03-16,2025-03-17,2025-03-22,2025-03-26,Released,Sampling error under AQL plan corrected; inspector re-qualified on the revised sampling table.

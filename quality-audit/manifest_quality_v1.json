@@ -1,0 +1,338 @@
+[
+  {
+    "slice_id": "S01-2025-03",
+    "supplier": "S01",
+    "month": "2025-03",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S01-2025-03.csv",
+    "record_count": 6
+  },
+  {
+    "slice_id": "S01-2025-04",
+    "supplier": "S01",
+    "month": "2025-04",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S01-2025-04.csv",
+    "record_count": 9
+  },
+  {
+    "slice_id": "S01-2025-05",
+    "supplier": "S01",
+    "month": "2025-05",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S01-2025-05.csv",
+    "record_count": 6
+  },
+  {
+    "slice_id": "S01-2025-06",
+    "supplier": "S01",
+    "month": "2025-06",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S01-2025-06.csv",
+    "record_count": 6
+  },
+  {
+    "slice_id": "S02-2025-03",
+    "supplier": "S02",
+    "month": "2025-03",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S02-2025-03.csv",
+    "record_count": 6
+  },
+  {
+    "slice_id": "S02-2025-04",
+    "supplier": "S02",
+    "month": "2025-04",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S02-2025-04.csv",
+    "record_count": 6
+  },
+  {
+    "slice_id": "S02-2025-05",
+    "supplier": "S02",
+    "month": "2025-05",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S02-2025-05.csv",
+    "record_count": 9
+  },
+  {
+    "slice_id": "S02-2025-06",
+    "supplier": "S02",
+    "month": "2025-06",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S02-2025-06.csv",
+    "record_count": 8
+  },
+  {
+    "slice_id": "S03-2025-03",
+    "supplier": "S03",
+    "month": "2025-03",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S03-2025-03.csv",
+    "record_count": 9
+  },
+  {
+    "slice_id": "S03-2025-04",
+    "supplier": "S03",
+    "month": "2025-04",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S03-2025-04.csv",
+    "record_count": 7
+  },
+  {
+    "slice_id": "S03-2025-05",
+    "supplier": "S03",
+    "month": "2025-05",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S03-2025-05.csv",
+    "record_count": 7
+  },
+  {
+    "slice_id": "S03-2025-06",
+    "supplier": "S03",
+    "month": "2025-06",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S03-2025-06.csv",
+    "record_count": 9
+  },
+  {
+    "slice_id": "S04-2025-03",
+    "supplier": "S04",
+    "month": "2025-03",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S04-2025-03.csv",
+    "record_count": 7
+  },
+  {
+    "slice_id": "S04-2025-04",
+    "supplier": "S04",
+    "month": "2025-04",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S04-2025-04.csv",
+    "record_count": 8
+  },
+  {
+    "slice_id": "S04-2025-05",
+    "supplier": "S04",
+    "month": "2025-05",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S04-2025-05.csv",
+    "record_count": 8
+  },
+  {
+    "slice_id": "S04-2025-06",
+    "supplier": "S04",
+    "month": "2025-06",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S04-2025-06.csv",
+    "record_count": 8
+  },
+  {
+    "slice_id": "S05-2025-03",
+    "supplier": "S05",
+    "month": "2025-03",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S05-2025-03.csv",
+    "record_count": 6
+  },
+  {
+    "slice_id": "S05-2025-04",
+    "supplier": "S05",
+    "month": "2025-04",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S05-2025-04.csv",
+    "record_count": 7
+  },
+  {
+    "slice_id": "S05-2025-05",
+    "supplier": "S05",
+    "month": "2025-05",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S05-2025-05.csv",
+    "record_count": 6
+  },
+  {
+    "slice_id": "S05-2025-06",
+    "supplier": "S05",
+    "month": "2025-06",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S05-2025-06.csv",
+    "record_count": 8
+  },
+  {
+    "slice_id": "S06-2025-03",
+    "supplier": "S06",
+    "month": "2025-03",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S06-2025-03.csv",
+    "record_count": 9
+  },
+  {
+    "slice_id": "S06-2025-04",
+    "supplier": "S06",
+    "month": "2025-04",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S06-2025-04.csv",
+    "record_count": 8
+  },
+  {
+    "slice_id": "S06-2025-05",
+    "supplier": "S06",
+    "month": "2025-05",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S06-2025-05.csv",
+    "record_count": 9
+  },
+  {
+    "slice_id": "S06-2025-06",
+    "supplier": "S06",
+    "month": "2025-06",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S06-2025-06.csv",
+    "record_count": 6
+  },
+  {
+    "slice_id": "S07-2025-03",
+    "supplier": "S07",
+    "month": "2025-03",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S07-2025-03.csv",
+    "record_count": 7
+  },
+  {
+    "slice_id": "S07-2025-04",
+    "supplier": "S07",
+    "month": "2025-04",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S07-2025-04.csv",
+    "record_count": 7
+  },
+  {
+    "slice_id": "S07-2025-05",
+    "supplier": "S07",
+    "month": "2025-05",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S07-2025-05.csv",
+    "record_count": 6
+  },
+  {
+    "slice_id": "S07-2025-06",
+    "supplier": "S07",
+    "month": "2025-06",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S07-2025-06.csv",
+    "record_count": 8
+  },
+  {
+    "slice_id": "S08-2025-03",
+    "supplier": "S08",
+    "month": "2025-03",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S08-2025-03.csv",
+    "record_count": 6
+  },
+  {
+    "slice_id": "S08-2025-04",
+    "supplier": "S08",
+    "month": "2025-04",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S08-2025-04.csv",
+    "record_count": 7
+  },
+  {
+    "slice_id": "S08-2025-05",
+    "supplier": "S08",
+    "month": "2025-05",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S08-2025-05.csv",
+    "record_count": 9
+  },
+  {
+    "slice_id": "S08-2025-06",
+    "supplier": "S08",
+    "month": "2025-06",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S08-2025-06.csv",
+    "record_count": 7
+  },
+  {
+    "slice_id": "S09-2025-03",
+    "supplier": "S09",
+    "month": "2025-03",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S09-2025-03.csv",
+    "record_count": 6
+  },
+  {
+    "slice_id": "S09-2025-04",
+    "supplier": "S09",
+    "month": "2025-04",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S09-2025-04.csv",
+    "record_count": 6
+  },
+  {
+    "slice_id": "S09-2025-05",
+    "supplier": "S09",
+    "month": "2025-05",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S09-2025-05.csv",
+    "record_count": 9
+  },
+  {
+    "slice_id": "S09-2025-06",
+    "supplier": "S09",
+    "month": "2025-06",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S09-2025-06.csv",
+    "record_count": 7
+  },
+  {
+    "slice_id": "S10-2025-03",
+    "supplier": "S10",
+    "month": "2025-03",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S10-2025-03.csv",
+    "record_count": 9
+  },
+  {
+    "slice_id": "S10-2025-04",
+    "supplier": "S10",
+    "month": "2025-04",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S10-2025-04.csv",
+    "record_count": 7
+  },
+  {
+    "slice_id": "S10-2025-05",
+    "supplier": "S10",
+    "month": "2025-05",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S10-2025-05.csv",
+    "record_count": 7
+  },
+  {
+    "slice_id": "S10-2025-06",
+    "supplier": "S10",
+    "month": "2025-06",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S10-2025-06.csv",
+    "record_count": 7
+  },
+  {
+    "slice_id": "S11-2025-03",
+    "supplier": "S11",
+    "month": "2025-03",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S11-2025-03.csv",
+    "record_count": 8
+  },
+  {
+    "slice_id": "S11-2025-04",
+    "supplier": "S11",
+    "month": "2025-04",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S11-2025-04.csv",
+    "record_count": 7
+  },
+  {
+    "slice_id": "S11-2025-05",
+    "supplier": "S11",
+    "month": "2025-05",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S11-2025-05.csv",
+    "record_count": 6
+  },
+  {
+    "slice_id": "S11-2025-06",
+    "supplier": "S11",
+    "month": "2025-06",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S11-2025-06.csv",
+    "record_count": 6
+  },
+  {
+    "slice_id": "S12-2025-03",
+    "supplier": "S12",
+    "month": "2025-03",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S12-2025-03.csv",
+    "record_count": 6
+  },
+  {
+    "slice_id": "S12-2025-04",
+    "supplier": "S12",
+    "month": "2025-04",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S12-2025-04.csv",
+    "record_count": 6
+  },
+  {
+    "slice_id": "S12-2025-05",
+    "supplier": "S12",
+    "month": "2025-05",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S12-2025-05.csv",
+    "record_count": 9
+  },
+  {
+    "slice_id": "S12-2025-06",
+    "supplier": "S12",
+    "month": "2025-06",
+    "records_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/quality-audit/slices/S12-2025-06.csv",
+    "record_count": 9
+  }
+]

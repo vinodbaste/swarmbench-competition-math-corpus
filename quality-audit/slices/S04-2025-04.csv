@@ -1,0 +1,9 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S04-2025-04-01,LOT-1091,DC-512,1.59,2025-04-10,2025-04-12,2025-04-14,2025-04-20,Quarantine,Nonconformance closed after rework of 9 units; effectiveness check scheduled next cycle.
+NCR-S04-2025-04-02,LOT-1210,DC-405,1.48,2025-04-18,2025-04-20,2025-04-24,2025-04-26,Closed,Material lot quarantined pending CoA review; disposition set to use-as-is after engineering waiver.
+NCR-S04-2025-04-03,LOT-1049,DC-101,1.34,2025-04-18,2025-04-21,2025-04-23,2025-04-28,Closed,Vendor CAPA referenced; corrective action verified on subsequent lots with no recurrence noted.
+NCR-S04-2025-04-04,LOT-1045,DC-230,1.65,2025-04-10,2025-04-12,2025-04-17,2025-04-20,Hold,Vendor CAPA referenced; corrective action verified on subsequent lots with no recurrence noted.
+NCR-S04-2025-04-05,LOT-1074,DC-512,1.19,2025-04-09,2025-04-11,2025-04-16,2025-04-17,Quarantine,Investigation found an out-of-spec torque setting; work instruction WI-627 updated accordingly.
+NCR-S04-2025-04-06,LOT-1007,DC-204,1.76,2025-04-08,2025-04-10,2025-04-14,2025-04-16,Hold,Containment isolated 4 affected units; supplier notified and incoming inspection tightened.
+NCR-S04-2025-04-07,LOT-1192,DC-204,2.67,2025-04-02,2025-04-04,2025-04-09,2025-04-11,Closed,Containment isolated 24 affected units; supplier notified and incoming inspection tightened.
+NCR-S04-2025-04-08,LOT-1009,DC-405,1.79,2025-04-09,2025-04-11,2025-04-14,2025-04-18,Rework,Nonconformance closed after rework of 28 units; effectiveness check scheduled next cycle.

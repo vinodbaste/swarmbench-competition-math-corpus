@@ -1,0 +1,9 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S07-2025-06-01,LOT-1175,DC-311,4.68,2025-06-07,2025-06-08,2025-06-12,2025-06-15,Released,Investigation found an out-of-spec torque setting; work instruction WI-199 updated accordingly.
+NCR-S07-2025-06-02,LOT-1206,DC-118,4.76,2025-06-11,2025-06-13,2025-06-17,2025-06-21,Released,Sampling error under AQL plan corrected; inspector re-qualified on the revised sampling table.
+NCR-S07-2025-06-03,LOT-1187,DC-230,4.38,2025-06-09,2025-06-11,2025-06-16,2025-06-19,Quarantine,Nonconformance closed after rework of 24 units; effectiveness check scheduled next cycle.
+NCR-S07-2025-06-04,LOT-1090,DC-101,3.18,2025-06-01,2025-06-02,2025-06-06,2025-06-11,Closed,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.
+NCR-S07-2025-06-05,LOT-1031,DC-512,4.4,2025-06-07,2025-06-09,2025-06-12,2025-06-15,Hold,Deviation attributed to calibration drift on gauge 70; recalibrated and verified against standard.
+NCR-S07-2025-06-06,LOT-1117,DC-230,4.8,2025-06-13,2025-06-14,2025-06-18,2025-06-22,Closed,Deviation attributed to calibration drift on gauge 73; recalibrated and verified against standard.
+NCR-S07-2025-06-07,LOT-1162,DC-118,4.34,2025-06-10,2025-06-13,2025-06-15,2025-06-19,Quarantine,Vendor CAPA referenced; corrective action verified on subsequent lots with no recurrence noted.
+NCR-S07-2025-06-08,LOT-1046,DC-204,3.27,2025-06-10,2025-06-12,2025-06-16,2025-06-19,Closed,Investigation found an out-of-spec torque setting; work instruction WI-131 updated accordingly.

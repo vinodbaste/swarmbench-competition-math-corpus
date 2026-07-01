@@ -1,0 +1,8 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S08-2025-04-01,LOT-1034,DC-101,2.54,2025-04-15,2025-04-16,2025-04-21,2025-04-23,Quarantine,Sampling error under AQL plan corrected; inspector re-qualified on the revised sampling table.
+NCR-S08-2025-04-02,LOT-1194,DC-230,2.17,2025-04-02,2025-04-04,2025-04-07,2025-04-10,Closed,Material lot quarantined pending CoA review; disposition set to use-as-is after engineering waiver.
+NCR-S08-2025-04-03,LOT-1080,DC-405,2.85,2025-04-05,2025-04-07,2025-04-10,2025-04-13,Quarantine,Disposition recorded as use-as-is citing a waiver that is not on file in the quality system.
+NCR-S08-2025-04-04,LOT-1049,DC-230,3.06,2025-04-07,2025-04-08,2025-04-13,2025-04-17,Hold,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.
+NCR-S08-2025-04-05,LOT-1195,DC-230,2.87,2025-04-14,2025-04-16,2025-04-21,2025-04-22,Closed,Deviation attributed to calibration drift on gauge 40; recalibrated and verified against standard.
+NCR-S08-2025-04-06,LOT-1134,DC-101,2.67,2025-04-03,2025-04-04,2025-04-10,2025-04-12,Rework,Containment scope narrowed after the fact to exclude two lots that shared the defect signature.
+NCR-S08-2025-04-07,LOT-1036,DC-118,2.01,2025-04-14,2025-04-17,2025-04-18,2025-04-23,Rework,Investigation found an out-of-spec torque setting; work instruction WI-499 updated accordingly.

@@ -1,0 +1,8 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S10-2025-05-01,LOT-1116,DC-311,1.37,2025-05-18,2025-05-21,2025-05-22,2025-05-28,Quarantine,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.
+NCR-S10-2025-05-02,LOT-1176,DC-230,1.88,2025-05-14,2025-05-15,2025-05-19,2025-05-23,Released,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.
+NCR-S10-2025-05-03,LOT-1006,DC-405,1.63,2025-05-03,2025-05-04,2025-05-08,2025-05-11,Rework,Nonconformance closed after rework of 4 units; effectiveness check scheduled next cycle.
+NCR-S10-2025-05-04,LOT-M005,DC-405,2.33,2025-05-08,2025-05-09,2025-05-13,2025-05-17,Rework,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.
+NCR-S10-2025-05-05,LOT-1170,DC-405,2.11,2025-05-09,2025-05-11,2025-05-13,2025-05-18,Released,Root cause traced to a mislabeled fixture on line 1; operator retrained and check sheet revised.
+NCR-S10-2025-05-06,LOT-1170,DC-230,1.07,2025-05-09,2025-05-11,2025-05-15,2025-05-17,Quarantine,Deviation attributed to calibration drift on gauge 38; recalibrated and verified against standard.
+NCR-S10-2025-05-07,LOT-M002,DC-118,1.38,2025-05-07,2025-05-10,2025-05-12,2025-05-15,Quarantine,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.

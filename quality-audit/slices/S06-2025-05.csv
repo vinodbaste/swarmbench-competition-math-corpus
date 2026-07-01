@@ -1,0 +1,10 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S06-2025-05-01,LOT-1171,DC-311,1.33,2025-05-03,2025-05-06,2025-05-10,2025-05-11,Rework,Material lot quarantined pending CoA review; disposition set to use-as-is after engineering waiver.
+NCR-S06-2025-05-02,LOT-1146,DC-204,1.9,2025-05-18,2025-05-20,2025-05-25,2025-05-26,Hold,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.
+NCR-S06-2025-05-03,LOT-1095,DC-405,2.35,2025-05-08,2025-05-10,2025-05-14,2025-05-18,Rework,Deviation attributed to calibration drift on gauge 96; recalibrated and verified against standard.
+NCR-S06-2025-05-04,LOT-1111,DC-230,1.94,2025-05-03,2025-05-04,2025-05-07,2025-05-11,Hold,Root cause traced to a mislabeled fixture on line 4; operator retrained and check sheet revised.
+NCR-S06-2025-05-05,LOT-1012,DC-230,2.65,2025-05-05,2025-05-06,2025-05-09,2025-05-15,Closed,Root cause confirmed as an undocumented deviation approved verbally; no CAPA raised at the time.
+NCR-S06-2025-05-06,LOT-1138,DC-204,1.71,2025-05-15,2025-05-17,2025-05-19,2025-05-24,Rework,Material lot quarantined pending CoA review; disposition set to use-as-is after engineering waiver.
+NCR-S06-2025-05-07,LOT-1042,DC-512,1.72,2025-05-06,2025-05-08,2025-05-12,2025-05-16,Closed,Process deviation from a missed cleaning step; 5S audit added to the shift changeover checklist.
+NCR-S06-2025-05-08,LOT-1044,DC-230,1.76,2025-05-03,2025-05-05,2025-05-09,2025-05-13,Quarantine,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.
+NCR-S06-2025-05-09,LOT-1168,DC-512,1.2,2025-05-09,2025-05-12,2025-05-13,2025-05-18,Hold,Investigation found an out-of-spec torque setting; work instruction WI-602 updated accordingly.

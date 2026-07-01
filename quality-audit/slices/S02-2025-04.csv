@@ -1,0 +1,7 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S02-2025-04-01,LOT-1025,DC-311,3.12,2025-04-13,2025-04-10,2025-04-09,2025-04-17,Quarantine,Containment isolated 36 affected units; supplier notified and incoming inspection tightened.
+NCR-S02-2025-04-02,LOT-1062,DC-204,3.33,2025-04-16,2025-04-17,2025-04-21,2025-04-24,Released,Material lot quarantined pending CoA review; disposition set to use-as-is after engineering waiver.
+NCR-S02-2025-04-03,LOT-1117,DC-204,4.0,2025-04-17,2025-04-18,2025-04-24,2025-04-25,Quarantine,Nonconformance closed after rework of 37 units; effectiveness check scheduled next cycle.
+NCR-S02-2025-04-04,LOT-1041,DC-311,3.4,2025-04-09,2025-04-11,2025-04-16,2025-04-18,Quarantine,Corrective action copied from a prior event; effectiveness check marked complete before due date.
+NCR-S02-2025-04-05,LOT-1018,DC-101,3.69,2025-04-08,2025-04-11,2025-04-15,2025-04-18,Closed,Process deviation from a missed cleaning step; 5S audit added to the shift changeover checklist.
+NCR-S02-2025-04-06,LOT-M000,DC-311,2.14,2025-04-14,2025-04-17,2025-04-21,2025-04-23,Closed,Nonconformance closed after rework of 10 units; effectiveness check scheduled next cycle.

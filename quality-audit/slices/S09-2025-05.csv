@@ -1,0 +1,10 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S09-2025-05-01,LOT-1147,DC-512,3.52,2025-05-08,2025-05-10,2025-05-14,2025-05-18,Rework,Root cause traced to a mislabeled fixture on line 1; operator retrained and check sheet revised.
+NCR-S09-2025-05-02,LOT-1167,DC-118,3.26,2025-05-05,2025-05-06,2025-05-12,2025-05-13,Quarantine,Investigation found an out-of-spec torque setting; work instruction WI-283 updated accordingly.
+NCR-S09-2025-05-03,LOT-1183,DC-204,3.28,2025-05-02,2025-05-05,2025-05-08,2025-05-12,Rework,Vendor CAPA referenced; corrective action verified on subsequent lots with no recurrence noted.
+NCR-S09-2025-05-04,LOT-1083,DC-512,2.99,2025-05-01,2025-05-02,2025-05-05,2025-05-10,Rework,Containment isolated 37 affected units; supplier notified and incoming inspection tightened.
+NCR-S09-2025-05-05,LOT-1077,DC-101,3.42,2025-05-10,2025-05-13,2025-05-17,2025-05-20,Hold,Containment isolated 8 affected units; supplier notified and incoming inspection tightened.
+NCR-S09-2025-05-06,LOT-1130,DC-512,3.72,2025-05-11,2025-05-13,2025-05-15,2025-05-21,Released,Material lot quarantined pending CoA review; disposition set to use-as-is after engineering waiver.
+NCR-S09-2025-05-07,LOT-1188,DC-405,3.49,2025-05-12,2025-05-15,2025-05-16,2025-05-21,Rework,Sampling error under AQL plan corrected; inspector re-qualified on the revised sampling table.
+NCR-S09-2025-05-08,LOT-1149,DC-101,3.59,2025-05-03,2025-05-04,2025-05-07,2025-05-11,Rework,Containment isolated 17 affected units; supplier notified and incoming inspection tightened.
+NCR-S09-2025-05-09,LOT-1003,DC-311,3.56,2025-05-15,2025-05-17,2025-05-20,2025-05-24,Quarantine,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.

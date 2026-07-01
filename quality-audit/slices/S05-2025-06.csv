@@ -1,0 +1,9 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S05-2025-06-01,LOT-1198,DC-101,3.94,2025-06-13,2025-06-15,2025-06-19,2025-06-22,Rework,Nonconformance closed after rework of 16 units; effectiveness check scheduled next cycle.
+NCR-S05-2025-06-02,LOT-1137,DC-512,4.8,2025-06-09,2025-06-10,2025-06-15,2025-06-18,Quarantine,Investigation found an out-of-spec torque setting; work instruction WI-431 updated accordingly.
+NCR-S05-2025-06-03,LOT-1200,DC-311,3.8,2025-06-10,2025-06-12,2025-06-17,2025-06-20,Hold,Root cause traced to a mislabeled fixture on line 3; operator retrained and check sheet revised.
+NCR-S05-2025-06-04,LOT-1135,DC-311,4.28,2025-06-01,2025-06-03,2025-06-05,2025-06-11,Closed,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.
+NCR-S05-2025-06-05,LOT-M001,DC-101,4.14,2025-06-01,2025-06-02,2025-06-05,2025-06-10,Quarantine,Root cause traced to a mislabeled fixture on line 5; operator retrained and check sheet revised.
+NCR-S05-2025-06-06,LOT-1078,DC-512,3.76,2025-06-13,2025-06-15,2025-06-17,2025-06-21,Rework,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.
+NCR-S05-2025-06-07,LOT-1097,DC-204,4.5,2025-06-05,2025-06-07,2025-06-12,2025-06-14,Hold,Sampling error under AQL plan corrected; inspector re-qualified on the revised sampling table.
+NCR-S05-2025-06-08,LOT-1066,DC-405,4.17,2025-06-08,2025-06-10,2025-06-12,2025-06-16,Hold,Root cause traced to a mislabeled fixture on line 3; operator retrained and check sheet revised.

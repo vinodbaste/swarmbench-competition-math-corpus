@@ -1,0 +1,9 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S06-2025-04-01,LOT-1187,DC-405,3.29,2025-04-02,2025-04-03,2025-04-09,2025-04-12,Closed,Vendor CAPA referenced; corrective action verified on subsequent lots with no recurrence noted.
+NCR-S06-2025-04-02,LOT-1007,DC-405,3.94,2025-04-08,2025-04-09,2025-04-14,2025-04-18,Quarantine,Root cause traced to a mislabeled fixture on line 5; operator retrained and check sheet revised.
+NCR-S06-2025-04-03,LOT-1158,DC-101,4.13,2025-04-03,2025-04-04,2025-04-07,2025-04-13,Rework,Material lot quarantined pending CoA review; disposition set to use-as-is after engineering waiver.
+NCR-S06-2025-04-04,LOT-1010,DC-230,3.24,2025-04-13,2025-04-15,2025-04-18,2025-04-22,Released,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.
+NCR-S06-2025-04-05,LOT-1110,DC-311,3.6,2025-04-18,2025-04-19,2025-04-24,2025-04-27,Rework,Disposition recorded as use-as-is citing a waiver that is not on file in the quality system.
+NCR-S06-2025-04-06,LOT-1018,DC-230,3.31,2025-04-18,2025-04-21,2025-04-25,2025-04-28,Closed,Containment isolated 31 affected units; supplier notified and incoming inspection tightened.
+NCR-S06-2025-04-07,LOT-1043,DC-311,2.31,2025-04-15,2025-04-17,2025-04-20,2025-04-23,Hold,Root cause traced to a mislabeled fixture on line 1; operator retrained and check sheet revised.
+NCR-S06-2025-04-08,LOT-1212,DC-101,4.38,2025-04-05,2025-04-08,2025-04-09,2025-04-14,Quarantine,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.

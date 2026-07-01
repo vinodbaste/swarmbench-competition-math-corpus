@@ -1,0 +1,7 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S11-2025-05-01,LOT-1049,DC-118,2.25,2025-05-13,2025-05-15,2025-05-20,2025-05-21,Rework,Corrective action copied from a prior event; effectiveness check marked complete before due date.
+NCR-S11-2025-05-02,LOT-1158,DC-101,2.48,2025-05-14,2025-05-17,2025-05-18,2025-05-22,Closed,Root cause traced to a mislabeled fixture on line 1; operator retrained and check sheet revised.
+NCR-S11-2025-05-03,LOT-1201,DC-512,2.0,2025-05-05,2025-05-08,2025-05-10,2025-05-15,Hold,Nonconformance closed after rework of 6 units; effectiveness check scheduled next cycle.
+NCR-S11-2025-05-04,LOT-1154,DC-405,2.12,2025-05-16,2025-05-17,2025-05-23,2025-05-25,Closed,Nonconformance closed after rework of 40 units; effectiveness check scheduled next cycle.
+NCR-S11-2025-05-05,LOT-1075,DC-311,3.29,2025-05-04,2025-05-05,2025-05-10,2025-05-14,Rework,Containment isolated 39 affected units; supplier notified and incoming inspection tightened.
+NCR-S11-2025-05-06,LOT-1012,DC-118,2.46,2025-05-09,2025-05-11,2025-05-15,2025-05-17,Quarantine,Supplier CAPA reference cited but the linked document number does not exist in the register.

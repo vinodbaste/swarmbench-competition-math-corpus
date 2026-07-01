@@ -1,0 +1,8 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S10-2025-06-01,LOT-1141,DC-118,3.05,2025-06-17,2025-06-19,2025-06-22,2025-06-25,Closed,Sampling error under AQL plan corrected; inspector re-qualified on the revised sampling table.
+NCR-S10-2025-06-02,LOT-1110,DC-512,1.79,2025-06-14,2025-06-15,2025-06-19,2025-06-24,Closed,Sampling error under AQL plan corrected; inspector re-qualified on the revised sampling table.
+NCR-S10-2025-06-03,LOT-1134,DC-405,2.27,2025-06-09,2025-06-10,2025-06-16,2025-06-19,Hold,Investigation found an out-of-spec torque setting; work instruction WI-364 updated accordingly.
+NCR-S10-2025-06-04,LOT-1144,DC-311,2.47,2025-06-01,2025-06-02,2025-06-07,2025-06-09,Closed,Supplier CAPA reference cited but the linked document number does not exist in the register.
+NCR-S10-2025-06-05,LOT-1143,DC-405,1.19,2025-06-05,2025-06-06,2025-06-11,2025-06-14,Hold,Process deviation from a missed cleaning step; 5S audit added to the shift changeover checklist.
+NCR-S10-2025-06-06,LOT-1022,DC-230,2.07,2025-06-04,2025-06-05,2025-06-11,2025-06-12,Released,Vendor CAPA referenced; corrective action verified on subsequent lots with no recurrence noted.
+NCR-S10-2025-06-07,LOT-M002,DC-311,2.26,2025-06-09,2025-06-12,2025-06-15,2025-06-18,Released,Nonconformance closed after rework of 23 units; effectiveness check scheduled next cycle.

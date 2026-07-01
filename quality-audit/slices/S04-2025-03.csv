@@ -1,0 +1,8 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S04-2025-03-01,LOT-1196,DC-101,2.69,2025-03-04,2025-03-07,2025-03-10,2025-03-14,Rework,Containment isolated 16 affected units; supplier notified and incoming inspection tightened.
+NCR-S04-2025-03-02,LOT-1096,DC-101,2.9,2025-03-03,2025-03-05,2025-03-08,2025-03-13,Rework,Containment isolated 36 affected units; supplier notified and incoming inspection tightened.
+NCR-S04-2025-03-03,LOT-1123,DC-118,3.46,2025-03-07,2025-03-08,2025-03-14,2025-03-17,Quarantine,Corrective action copied from a prior event; effectiveness check marked complete before due date.
+NCR-S04-2025-03-04,LOT-1185,DC-512,2.53,2025-03-09,2025-03-11,2025-03-16,2025-03-18,Hold,Sampling error under AQL plan corrected; inspector re-qualified on the revised sampling table.
+NCR-S04-2025-03-05,LOT-1165,DC-405,3.43,2025-03-02,2025-03-03,2025-03-06,2025-03-10,Quarantine,Investigation found an out-of-spec torque setting; work instruction WI-850 updated accordingly.
+NCR-S04-2025-03-06,LOT-1061,DC-512,3.94,2025-03-08,2025-03-09,2025-03-13,2025-03-16,Released,Sampling error under AQL plan corrected; inspector re-qualified on the revised sampling table.
+NCR-S04-2025-03-07,LOT-1063,DC-311,2.85,2025-03-17,2025-03-20,2025-03-24,2025-03-27,Hold,Process deviation from a missed cleaning step; 5S audit added to the shift changeover checklist.

@@ -1,0 +1,7 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S06-2025-06-01,LOT-1151,DC-204,4.12,2025-06-08,2025-06-10,2025-06-15,2025-06-17,Released,Material lot quarantined pending CoA review; disposition set to use-as-is after engineering waiver.
+NCR-S06-2025-06-02,LOT-1036,DC-512,4.9,2025-06-13,2025-06-14,2025-06-20,2025-06-21,Released,Investigation found an out-of-spec torque setting; work instruction WI-619 updated accordingly.
+NCR-S06-2025-06-03,LOT-1171,DC-204,3.26,2025-06-02,2025-06-05,2025-06-06,2025-06-11,Quarantine,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.
+NCR-S06-2025-06-04,LOT-1128,DC-230,3.65,2025-06-01,2025-06-02,2025-06-05,2025-06-09,Hold,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.
+NCR-S06-2025-06-05,LOT-1044,DC-512,3.43,2025-06-07,2025-06-08,2025-06-13,2025-06-15,Hold,Nonconformance closed after rework of 23 units; effectiveness check scheduled next cycle.
+NCR-S06-2025-06-06,LOT-1011,DC-118,5.31,2025-06-08,2025-06-09,2025-06-13,2025-06-16,Closed,Deviation attributed to calibration drift on gauge 10; recalibrated and verified against standard.

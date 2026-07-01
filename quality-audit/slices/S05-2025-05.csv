@@ -1,0 +1,7 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S05-2025-05-01,LOT-1129,DC-311,3.37,2025-05-17,2025-05-20,2025-05-22,2025-05-26,Closed,Containment isolated 35 affected units; supplier notified and incoming inspection tightened.
+NCR-S05-2025-05-02,LOT-1068,DC-118,3.37,2025-05-07,2025-05-08,2025-05-12,2025-05-17,Rework,Material lot quarantined pending CoA review; disposition set to use-as-is after engineering waiver.
+NCR-S05-2025-05-03,LOT-1177,DC-311,3.27,2025-05-03,2025-05-05,2025-05-09,2025-05-12,Hold,Sampling error under AQL plan corrected; inspector re-qualified on the revised sampling table.
+NCR-S05-2025-05-04,LOT-1006,DC-101,3.41,2025-05-08,2025-05-05,2025-05-03,2025-05-13,Rework,Root cause traced to a mislabeled fixture on line 5; operator retrained and check sheet revised.
+NCR-S05-2025-05-05,LOT-1031,DC-118,4.14,2025-05-18,2025-05-19,2025-05-22,2025-05-27,Released,Process deviation from a missed cleaning step; 5S audit added to the shift changeover checklist.
+NCR-S05-2025-05-06,LOT-1061,DC-204,3.76,2025-05-18,2025-05-19,2025-05-25,2025-05-27,Rework,Deviation attributed to calibration drift on gauge 12; recalibrated and verified against standard.

@@ -1,0 +1,9 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S02-2025-06-01,LOT-1211,DC-405,3.85,2025-06-06,2025-06-08,2025-06-13,2025-06-16,Hold,Root cause traced to a mislabeled fixture on line 5; operator retrained and check sheet revised.
+NCR-S02-2025-06-02,LOT-1199,DC-512,4.29,2025-06-03,2025-06-04,2025-06-10,2025-06-13,Quarantine,Deviation attributed to calibration drift on gauge 59; recalibrated and verified against standard.
+NCR-S02-2025-06-03,LOT-1057,DC-230,4.09,2025-06-04,2025-06-05,2025-06-10,2025-06-14,Quarantine,Containment isolated 8 affected units; supplier notified and incoming inspection tightened.
+NCR-S02-2025-06-04,LOT-1070,DC-230,3.74,2025-06-11,2025-06-14,2025-06-18,2025-06-21,Quarantine,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.
+NCR-S02-2025-06-05,LOT-1021,DC-405,4.12,2025-06-08,2025-06-10,2025-06-15,2025-06-17,Quarantine,Deviation attributed to calibration drift on gauge 46; recalibrated and verified against standard.
+NCR-S02-2025-06-06,LOT-1147,DC-230,4.53,2025-06-17,2025-06-20,2025-06-22,2025-06-25,Released,Root cause traced to a mislabeled fixture on line 4; operator retrained and check sheet revised.
+NCR-S02-2025-06-07,LOT-1214,DC-405,4.45,2025-06-11,2025-06-13,2025-06-16,2025-06-20,Closed,Investigation found an out-of-spec torque setting; work instruction WI-141 updated accordingly.
+NCR-S02-2025-06-08,LOT-1164,DC-311,3.96,2025-06-12,2025-06-13,2025-06-17,2025-06-20,Closed,Containment isolated 22 affected units; supplier notified and incoming inspection tightened.

@@ -1,0 +1,8 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S07-2025-04-01,LOT-1067,DC-405,2.26,2025-04-02,2025-04-04,2025-04-06,2025-04-10,Rework,Closure justified by 'trend within historical norms' without attaching the supporting data.
+NCR-S07-2025-04-02,LOT-1023,DC-311,2.16,2025-04-01,2025-04-03,2025-04-07,2025-04-09,Closed,Process deviation from a missed cleaning step; 5S audit added to the shift changeover checklist.
+NCR-S07-2025-04-03,LOT-1157,DC-405,1.51,2025-04-04,2025-04-05,2025-04-08,2025-04-13,Hold,Sampling error under AQL plan corrected; inspector re-qualified on the revised sampling table.
+NCR-S07-2025-04-04,LOT-1167,DC-230,3.22,2025-04-03,2025-04-05,2025-04-07,2025-04-13,Closed,Investigation found an out-of-spec torque setting; work instruction WI-622 updated accordingly.
+NCR-S07-2025-04-05,LOT-M000,DC-118,2.72,2025-04-16,2025-04-19,2025-04-23,2025-04-25,Rework,Material lot quarantined pending CoA review; disposition set to use-as-is after engineering waiver.
+NCR-S07-2025-04-06,LOT-1177,DC-230,2.42,2025-04-01,2025-04-03,2025-04-06,2025-04-09,Rework,Investigation found an out-of-spec torque setting; work instruction WI-780 updated accordingly.
+NCR-S07-2025-04-07,LOT-1195,DC-204,2.02,2025-04-08,2025-04-10,2025-04-15,2025-04-18,Hold,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.

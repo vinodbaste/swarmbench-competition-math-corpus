@@ -1,0 +1,8 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S09-2025-06-01,LOT-1136,DC-512,13.71,2025-06-10,2025-06-13,2025-06-14,2025-06-19,Quarantine,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.
+NCR-S09-2025-06-02,LOT-1076,DC-101,10.94,2025-06-01,2025-06-04,2025-06-08,2025-06-11,Closed,Nonconformance closed after rework of 18 units; effectiveness check scheduled next cycle.
+NCR-S09-2025-06-03,LOT-1105,DC-311,13.56,2025-06-13,2025-06-16,2025-06-18,2025-06-21,Released,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.
+NCR-S09-2025-06-04,LOT-1048,DC-118,13.74,2025-06-11,2025-06-13,2025-06-15,2025-06-20,Quarantine,Deviation attributed to calibration drift on gauge 80; recalibrated and verified against standard.
+NCR-S09-2025-06-05,LOT-1032,DC-512,13.09,2025-06-12,2025-06-14,2025-06-17,2025-06-21,Rework,Vendor CAPA referenced; corrective action verified on subsequent lots with no recurrence noted.
+NCR-S09-2025-06-06,LOT-1047,DC-204,14.63,2025-06-11,2025-06-14,2025-06-18,2025-06-19,Released,Sampling error under AQL plan corrected; inspector re-qualified on the revised sampling table.
+NCR-S09-2025-06-07,LOT-1128,DC-230,9.86,2025-06-18,2025-06-20,2025-06-25,2025-06-28,Released,Deviation attributed to calibration drift on gauge 27; recalibrated and verified against standard.

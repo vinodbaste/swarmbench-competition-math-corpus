@@ -1,0 +1,10 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S03-2025-03-01,LOT-1168,DC-118,0.69,2025-03-11,2025-03-12,2025-03-15,2025-03-20,Quarantine,Containment isolated 3 affected units; supplier notified and incoming inspection tightened.
+NCR-S03-2025-03-02,LOT-M005,DC-405,0.74,2025-03-16,2025-03-18,2025-03-21,2025-03-24,Released,Vendor CAPA referenced; corrective action verified on subsequent lots with no recurrence noted.
+NCR-S03-2025-03-03,LOT-1113,DC-311,0.1,2025-03-15,2025-03-18,2025-03-19,2025-03-23,Closed,Deviation attributed to calibration drift on gauge 20; recalibrated and verified against standard.
+NCR-S03-2025-03-04,LOT-1121,DC-405,0.56,2025-03-07,2025-03-10,2025-03-14,2025-03-17,Hold,Deviation attributed to calibration drift on gauge 65; recalibrated and verified against standard.
+NCR-S03-2025-03-05,LOT-1104,DC-405,0.8,2025-03-07,2025-03-10,2025-03-11,2025-03-16,Rework,Process deviation from a missed cleaning step; 5S audit added to the shift changeover checklist.
+NCR-S03-2025-03-06,LOT-1207,DC-311,0.83,2025-03-18,2025-03-19,2025-03-25,2025-03-27,Rework,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.
+NCR-S03-2025-03-07,LOT-1047,DC-405,1.33,2025-03-13,2025-03-14,2025-03-18,2025-03-21,Hold,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.
+NCR-S03-2025-03-08,LOT-1113,DC-204,1.15,2025-03-14,2025-03-15,2025-03-21,2025-03-23,Quarantine,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.
+NCR-S03-2025-03-09,LOT-1146,DC-230,1.26,2025-03-07,2025-03-09,2025-03-12,2025-03-15,Hold,Sampling error under AQL plan corrected; inspector re-qualified on the revised sampling table.

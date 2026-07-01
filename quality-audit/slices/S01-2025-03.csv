@@ -1,0 +1,7 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S01-2025-03-01,LOT-1201,DC-101,3.84,2025-03-05,2025-03-06,2025-03-09,2025-03-13,Rework,Process deviation from a missed cleaning step; 5S audit added to the shift changeover checklist.
+NCR-S01-2025-03-02,LOT-1049,DC-311,3.53,2025-03-06,2025-03-07,2025-03-13,2025-03-16,Hold,Deviation attributed to calibration drift on gauge 43; recalibrated and verified against standard.
+NCR-S01-2025-03-03,LOT-1018,DC-204,4.34,2025-03-14,2025-03-17,2025-03-18,2025-03-22,Closed,Deviation attributed to calibration drift on gauge 94; recalibrated and verified against standard.
+NCR-S01-2025-03-04,LOT-1041,DC-101,3.63,2025-03-05,2025-03-08,2025-03-09,2025-03-15,Released,Handling damage identified at packaging; foam insert redesigned and first-article re-approved.
+NCR-S01-2025-03-05,LOT-M003,DC-311,3.82,2025-03-06,2025-03-09,2025-03-10,2025-03-15,Hold,Vendor CAPA referenced; corrective action verified on subsequent lots with no recurrence noted.
+NCR-S01-2025-03-06,LOT-1122,DC-101,3.96,2025-03-02,2025-03-05,2025-03-06,2025-03-12,Closed,Investigation found an out-of-spec torque setting; work instruction WI-971 updated accordingly.

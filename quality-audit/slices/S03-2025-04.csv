@@ -1,0 +1,8 @@
+record_id,lot_id,defect_code,defect_rate,discovery_date,containment_date,disposition_date,release_date,lot_status,closure_text
+NCR-S03-2025-04-01,LOT-1041,DC-230,3.93,2025-04-14,2025-04-17,2025-04-21,2025-04-24,Closed,Deviation attributed to calibration drift on gauge 51; recalibrated and verified against standard.
+NCR-S03-2025-04-02,LOT-1046,DC-204,3.22,2025-04-18,2025-04-21,2025-04-22,2025-04-28,Closed,Containment isolated 10 affected units; supplier notified and incoming inspection tightened.
+NCR-S03-2025-04-03,LOT-1063,DC-311,2.42,2025-04-13,2025-04-14,2025-04-18,2025-04-23,Rework,Investigation found an out-of-spec torque setting; work instruction WI-200 updated accordingly.
+NCR-S03-2025-04-04,LOT-1069,DC-101,2.74,2025-04-07,2025-04-08,2025-04-12,2025-04-16,Released,Deviation attributed to calibration drift on gauge 36; recalibrated and verified against standard.
+NCR-S03-2025-04-05,LOT-1173,DC-230,2.32,2025-04-05,2025-04-06,2025-04-09,2025-04-13,Released,Sampling error under AQL plan corrected; inspector re-qualified on the revised sampling table.
+NCR-S03-2025-04-06,LOT-1028,DC-311,2.15,2025-04-15,2025-04-17,2025-04-19,2025-04-25,Quarantine,Vendor CAPA referenced; corrective action verified on subsequent lots with no recurrence noted.
+NCR-S03-2025-04-07,LOT-1096,DC-101,1.78,2025-04-10,2025-04-13,2025-04-16,2025-04-20,Closed,Root cause traced to a mislabeled fixture on line 1; operator retrained and check sheet revised.
