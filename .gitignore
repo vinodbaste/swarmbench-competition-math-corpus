@@ -5,3 +5,5 @@ stats-audit/_build/
 stats-audit/ground_truth_v1.json
 quality-audit/_build/
 quality-audit/ground_truth_quality_v1.json
+putnam/_gt/
+putnam/_build/cache/

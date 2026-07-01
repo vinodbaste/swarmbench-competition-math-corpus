@@ -1,0 +1,422 @@
+[
+  {
+    "problem_id": "PUT-2003-A1",
+    "title": "Putnam 2003 A1",
+    "year": 2003,
+    "label": "A1",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2003-A1.txt"
+  },
+  {
+    "problem_id": "PUT-2003-A3",
+    "title": "Putnam 2003 A3",
+    "year": 2003,
+    "label": "A3",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2003-A3.txt"
+  },
+  {
+    "problem_id": "PUT-2003-A6",
+    "title": "Putnam 2003 A6",
+    "year": 2003,
+    "label": "A6",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2003-A6.txt"
+  },
+  {
+    "problem_id": "PUT-2004-B3",
+    "title": "Putnam 2004 B3",
+    "year": 2004,
+    "label": "B3",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2004-B3.txt"
+  },
+  {
+    "problem_id": "PUT-2004-B4",
+    "title": "Putnam 2004 B4",
+    "year": 2004,
+    "label": "B4",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2004-B4.txt"
+  },
+  {
+    "problem_id": "PUT-2004-B5",
+    "title": "Putnam 2004 B5",
+    "year": 2004,
+    "label": "B5",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2004-B5.txt"
+  },
+  {
+    "problem_id": "PUT-2004-B6",
+    "title": "Putnam 2004 B6",
+    "year": 2004,
+    "label": "B6",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2004-B6.txt"
+  },
+  {
+    "problem_id": "PUT-2008-B1",
+    "title": "Putnam 2008 B1",
+    "year": 2008,
+    "label": "B1",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2008-B1.txt"
+  },
+  {
+    "problem_id": "PUT-2008-B2",
+    "title": "Putnam 2008 B2",
+    "year": 2008,
+    "label": "B2",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2008-B2.txt"
+  },
+  {
+    "problem_id": "PUT-2008-B3",
+    "title": "Putnam 2008 B3",
+    "year": 2008,
+    "label": "B3",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2008-B3.txt"
+  },
+  {
+    "problem_id": "PUT-2008-B5",
+    "title": "Putnam 2008 B5",
+    "year": 2008,
+    "label": "B5",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2008-B5.txt"
+  },
+  {
+    "problem_id": "PUT-2008-B6",
+    "title": "Putnam 2008 B6",
+    "year": 2008,
+    "label": "B6",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2008-B6.txt"
+  },
+  {
+    "problem_id": "PUT-2011-A1",
+    "title": "Putnam 2011 A1",
+    "year": 2011,
+    "label": "A1",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2011-A1.txt"
+  },
+  {
+    "problem_id": "PUT-2011-A2",
+    "title": "Putnam 2011 A2",
+    "year": 2011,
+    "label": "A2",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2011-A2.txt"
+  },
+  {
+    "problem_id": "PUT-2011-A3",
+    "title": "Putnam 2011 A3",
+    "year": 2011,
+    "label": "A3",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2011-A3.txt"
+  },
+  {
+    "problem_id": "PUT-2012-A3",
+    "title": "Putnam 2012 A3",
+    "year": 2012,
+    "label": "A3",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2012-A3.txt"
+  },
+  {
+    "problem_id": "PUT-2012-A5",
+    "title": "Putnam 2012 A5",
+    "year": 2012,
+    "label": "A5",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2012-A5.txt"
+  },
+  {
+    "problem_id": "PUT-2013-A1",
+    "title": "Putnam 2013 A1",
+    "year": 2013,
+    "label": "A1",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2013-A1.txt"
+  },
+  {
+    "problem_id": "PUT-2013-A4",
+    "title": "Putnam 2013 A4",
+    "year": 2013,
+    "label": "A4",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2013-A4.txt"
+  },
+  {
+    "problem_id": "PUT-2013-B1",
+    "title": "Putnam 2013 B1",
+    "year": 2013,
+    "label": "B1",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2013-B1.txt"
+  },
+  {
+    "problem_id": "PUT-2013-B2",
+    "title": "Putnam 2013 B2",
+    "year": 2013,
+    "label": "B2",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2013-B2.txt"
+  },
+  {
+    "problem_id": "PUT-2014-A1",
+    "title": "Putnam 2014 A1",
+    "year": 2014,
+    "label": "A1",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2014-A1.txt"
+  },
+  {
+    "problem_id": "PUT-2014-A2",
+    "title": "Putnam 2014 A2",
+    "year": 2014,
+    "label": "A2",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2014-A2.txt"
+  },
+  {
+    "problem_id": "PUT-2014-A3",
+    "title": "Putnam 2014 A3",
+    "year": 2014,
+    "label": "A3",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2014-A3.txt"
+  },
+  {
+    "problem_id": "PUT-2014-A4",
+    "title": "Putnam 2014 A4",
+    "year": 2014,
+    "label": "A4",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2014-A4.txt"
+  },
+  {
+    "problem_id": "PUT-2014-A6",
+    "title": "Putnam 2014 A6",
+    "year": 2014,
+    "label": "A6",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2014-A6.txt"
+  },
+  {
+    "problem_id": "PUT-2015-A2",
+    "title": "Putnam 2015 A2",
+    "year": 2015,
+    "label": "A2",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2015-A2.txt"
+  },
+  {
+    "problem_id": "PUT-2015-A3",
+    "title": "Putnam 2015 A3",
+    "year": 2015,
+    "label": "A3",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2015-A3.txt"
+  },
+  {
+    "problem_id": "PUT-2015-A4",
+    "title": "Putnam 2015 A4",
+    "year": 2015,
+    "label": "A4",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2015-A4.txt"
+  },
+  {
+    "problem_id": "PUT-2015-A5",
+    "title": "Putnam 2015 A5",
+    "year": 2015,
+    "label": "A5",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2015-A5.txt"
+  },
+  {
+    "problem_id": "PUT-2015-B3",
+    "title": "Putnam 2015 B3",
+    "year": 2015,
+    "label": "B3",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2015-B3.txt"
+  },
+  {
+    "problem_id": "PUT-2015-B4",
+    "title": "Putnam 2015 B4",
+    "year": 2015,
+    "label": "B4",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2015-B4.txt"
+  },
+  {
+    "problem_id": "PUT-2015-B5",
+    "title": "Putnam 2015 B5",
+    "year": 2015,
+    "label": "B5",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2015-B5.txt"
+  },
+  {
+    "problem_id": "PUT-2015-B6",
+    "title": "Putnam 2015 B6",
+    "year": 2015,
+    "label": "B6",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2015-B6.txt"
+  },
+  {
+    "problem_id": "PUT-2016-A1",
+    "title": "Putnam 2016 A1",
+    "year": 2016,
+    "label": "A1",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2016-A1.txt"
+  },
+  {
+    "problem_id": "PUT-2016-A2",
+    "title": "Putnam 2016 A2",
+    "year": 2016,
+    "label": "A2",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2016-A2.txt"
+  },
+  {
+    "problem_id": "PUT-2016-A3",
+    "title": "Putnam 2016 A3",
+    "year": 2016,
+    "label": "A3",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2016-A3.txt"
+  },
+  {
+    "problem_id": "PUT-2016-A4",
+    "title": "Putnam 2016 A4",
+    "year": 2016,
+    "label": "A4",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2016-A4.txt"
+  },
+  {
+    "problem_id": "PUT-2016-A5",
+    "title": "Putnam 2016 A5",
+    "year": 2016,
+    "label": "A5",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2016-A5.txt"
+  },
+  {
+    "problem_id": "PUT-2016-A6",
+    "title": "Putnam 2016 A6",
+    "year": 2016,
+    "label": "A6",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2016-A6.txt"
+  },
+  {
+    "problem_id": "PUT-2016-B1",
+    "title": "Putnam 2016 B1",
+    "year": 2016,
+    "label": "B1",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2016-B1.txt"
+  },
+  {
+    "problem_id": "PUT-2016-B2",
+    "title": "Putnam 2016 B2",
+    "year": 2016,
+    "label": "B2",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2016-B2.txt"
+  },
+  {
+    "problem_id": "PUT-2016-B4",
+    "title": "Putnam 2016 B4",
+    "year": 2016,
+    "label": "B4",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2016-B4.txt"
+  },
+  {
+    "problem_id": "PUT-2016-B5",
+    "title": "Putnam 2016 B5",
+    "year": 2016,
+    "label": "B5",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2016-B5.txt"
+  },
+  {
+    "problem_id": "PUT-2016-B6",
+    "title": "Putnam 2016 B6",
+    "year": 2016,
+    "label": "B6",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2016-B6.txt"
+  },
+  {
+    "problem_id": "PUT-2017-A1",
+    "title": "Putnam 2017 A1",
+    "year": 2017,
+    "label": "A1",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2017-A1.txt"
+  },
+  {
+    "problem_id": "PUT-2017-A6",
+    "title": "Putnam 2017 A6",
+    "year": 2017,
+    "label": "A6",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2017-A6.txt"
+  },
+  {
+    "problem_id": "PUT-2017-B2",
+    "title": "Putnam 2017 B2",
+    "year": 2017,
+    "label": "B2",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2017-B2.txt"
+  },
+  {
+    "problem_id": "PUT-2017-B4",
+    "title": "Putnam 2017 B4",
+    "year": 2017,
+    "label": "B4",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2017-B4.txt"
+  },
+  {
+    "problem_id": "PUT-2017-B5",
+    "title": "Putnam 2017 B5",
+    "year": 2017,
+    "label": "B5",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2017-B5.txt"
+  },
+  {
+    "problem_id": "PUT-2017-B6",
+    "title": "Putnam 2017 B6",
+    "year": 2017,
+    "label": "B6",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2017-B6.txt"
+  },
+  {
+    "problem_id": "PUT-2018-A1",
+    "title": "Putnam 2018 A1",
+    "year": 2018,
+    "label": "A1",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2018-A1.txt"
+  },
+  {
+    "problem_id": "PUT-2018-A2",
+    "title": "Putnam 2018 A2",
+    "year": 2018,
+    "label": "A2",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2018-A2.txt"
+  },
+  {
+    "problem_id": "PUT-2018-A3",
+    "title": "Putnam 2018 A3",
+    "year": 2018,
+    "label": "A3",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2018-A3.txt"
+  },
+  {
+    "problem_id": "PUT-2018-B1",
+    "title": "Putnam 2018 B1",
+    "year": 2018,
+    "label": "B1",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2018-B1.txt"
+  },
+  {
+    "problem_id": "PUT-2018-B3",
+    "title": "Putnam 2018 B3",
+    "year": 2018,
+    "label": "B3",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2018-B3.txt"
+  },
+  {
+    "problem_id": "PUT-2019-A1",
+    "title": "Putnam 2019 A1",
+    "year": 2019,
+    "label": "A1",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2019-A1.txt"
+  },
+  {
+    "problem_id": "PUT-2019-A2",
+    "title": "Putnam 2019 A2",
+    "year": 2019,
+    "label": "A2",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2019-A2.txt"
+  },
+  {
+    "problem_id": "PUT-2019-A3",
+    "title": "Putnam 2019 A3",
+    "year": 2019,
+    "label": "A3",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2019-A3.txt"
+  },
+  {
+    "problem_id": "PUT-2019-A5",
+    "title": "Putnam 2019 A5",
+    "year": 2019,
+    "label": "A5",
+    "text_url": "https://raw.githubusercontent.com/vinodbaste/swarmbench-competition-math-corpus/main/putnam/statements/PUT-2019-A5.txt"
+  }
+]
