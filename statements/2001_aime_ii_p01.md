@@ -1,0 +1,3 @@
+# 2001 AIME II Problem 1
+
+Let $N$ be the largest positive integer with the following property: reading from left to right, each pair of consecutive digits of $N$ forms a perfect square. What are the leftmost three digits of $N$ ?

@@ -1,0 +1,3 @@
+# 2003 AIME II Problem 1
+
+The product $N$ of three positive integers is 6 times their sum, and one of the integers is the sum of the other two. Find the sum of all possible values of $N$ .

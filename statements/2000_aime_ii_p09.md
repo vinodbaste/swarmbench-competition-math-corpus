@@ -1,0 +1,3 @@
+# 2000 AIME II Problem 9
+
+Given that $z$ is a complex number such that $z+\frac 1z=2\cos 3^\circ$ , find the least integer that is greater than $z^{2000}+\frac 1{z^{2000}}$ .
