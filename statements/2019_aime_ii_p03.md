@@ -1,0 +1,3 @@
+# 2019 AIME II Problem 3
+
+Find the number of $7$ -tuples of positive integers $(a,b,c,d,e,f,g)$ that satisfy the following system of equations: \[abc=70\] \[cde=71\] \[efg=72.\]
